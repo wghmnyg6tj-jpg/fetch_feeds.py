@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T11:14+00:00",
+ "generated": "2026-11-25T12:11+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -174,6 +174,11 @@
    "status": "ok",
    "items": [
     {
+     "title": "Her er Zahra. Hun kan ikke længere være anklager i retten",
+     "link": "https://www.dr.dk/nyheder/indland/her-er-zahra-hun-kan-ikke-laengere-vaere-anklager-i-retten",
+     "published": "2026-11-25T11:35+00:00"
+    },
+    {
      "title": "Fund af plastik i foderproduktion hos dansk svinegigant",
      "link": "https://www.dr.dk/nyheder/indland/fund-af-plastik-i-foderproduktion-hos-dansk-svinegigant",
      "published": "2026-11-25T11:00+00:00"
@@ -242,11 +247,6 @@
      "title": "Minister om dyrere motorvejsforbindelse: Beklageligt, men alting stiger",
      "link": "https://www.dr.dk/nyheder/indland/minister-om-dyrere-motorvejsforbindelse-beklageligt-men-alting-stiger",
      "published": "2026-11-24T19:50+00:00"
-    },
-    {
-     "title": "Christian var 38, da han blev adopteret - det har ændret mere, end han troede",
-     "link": "https://www.dr.dk/nyheder/indland/christian-var-38-da-han-blev-adopteret-det-har-aendret-mere-end-han-troede",
-     "published": "2026-11-24T19:44+00:00"
     }
    ]
   },
@@ -506,6 +506,31 @@
    "status": "ok",
    "items": [
     {
+     "title": "Slipper for fængsel efter vanvidskørsel",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/sterling-idoemt-betinget-faengsel-efter-vanvidskoersel/11365034",
+     "published": "2026-11-25T12:03+00:00"
+    },
+    {
+     "title": "Pia Kjærsgaard \nunder \nkniven",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/pia-kjaersgaard-under-kniven-er-en-folkesygdom/11365013",
+     "published": "2026-11-25T11:52+00:00"
+    },
+    {
+     "title": "Teenagere anholdt: Mistænkt for uhyggelige planer mod tysk flygtningecenter",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/teenagere-anholdt-mistaenkt-for-uhyggelige-planer-mod-tysk-flygtningecenter/11365019",
+     "published": "2026-11-25T11:50+00:00"
+    },
+    {
+     "title": "Nets med\nadvarsel",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/nets-advarer-foer-tilbudsfest-stop-op/11364688",
+     "published": "2026-11-25T11:49+00:00"
+    },
+    {
+     "title": "Snak om partering i sag om kloakdrab",
+     "link": "https://ekstrabladet.dk/krimi/snak-om-partering-i-sag-om-kloakdrab/11364935",
+     "published": "2026-11-25T11:25+00:00"
+    },
+    {
      "title": "Det stikker helt af: 39 gange på 115 dage",
      "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/international_fodbold/medie-infantino-har-floejet-i-privatfly-39-gange-paa-115-dage/11363594",
      "published": "2026-11-25T11:03+00:00"
@@ -529,31 +554,6 @@
      "title": "Endelig solgt",
      "link": "https://ekstrabladet.dk/underholdning/dkkendte/massivt-afslag-katerina-pitzner-har-endelig-solgt-huset/11364944",
      "published": "2026-11-25T10:50+00:00"
-    },
-    {
-     "title": "Verdensstjerne raser: Det er uacceptabelt",
-     "link": "https://ekstrabladet.dk/sport/fodbold/neymar-rasende-paa-dommerne-jeg-mister-besindelsen/11363971",
-     "published": "2026-11-25T10:44+00:00"
-    },
-    {
-     "title": "Tredje gang skal være lykkens gang",
-     "link": "https://ekstrabladet.dk/sport/haandbold/tredje-gang-skal-vaere-lykkens-gang-for-dansk-ulykkesfugl/11364729",
-     "published": "2026-11-25T10:29+00:00"
-    },
-    {
-     "title": "Hemmelige \ntal afsløret",
-     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/datalaek-afsloerer-enormt-russisk-doedstal/11364632",
-     "published": "2026-11-25T10:21+00:00"
-    },
-    {
-     "title": "Dansk gigant\nstyrtdykkede\nefter told-trusler",
-     "link": "https://ekstrabladet.dk/penge/trump-truer-med-ny-toldkrig-fik-maersk-til-at-styrtdykke/11364691",
-     "published": "2026-11-25T10:20+00:00"
-    },
-    {
-     "title": "Ishockeyforbund tvivler på habilitet i Rusland-afgørelse",
-     "link": "https://ekstrabladet.dk/sport/ishockeyforbund-tvivler-paa-habilitet-i-rusland-afgoerelse/11364940",
-     "published": "2026-11-25T10:11+00:00"
     }
    ]
   },
@@ -563,6 +563,21 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Pia Kjærsgaard \nunder \nkniven",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/pia-kjaersgaard-under-kniven-er-en-folkesygdom/11365013",
+     "published": "2026-11-25T11:52+00:00"
+    },
+    {
+     "title": "Teenagere anholdt: Mistænkt for uhyggelige planer mod tysk flygtningecenter",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/teenagere-anholdt-mistaenkt-for-uhyggelige-planer-mod-tysk-flygtningecenter/11365019",
+     "published": "2026-11-25T11:50+00:00"
+    },
+    {
+     "title": "Nets med\nadvarsel",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/nets-advarer-foer-tilbudsfest-stop-op/11364688",
+     "published": "2026-11-25T11:49+00:00"
+    },
     {
      "title": "Advarer efter attentatplan:\nDanmark er sårbart",
      "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/ukrainsk-officer-advarer-danmark-er-saarbart/11362497",
@@ -597,21 +612,6 @@
      "title": "Må ikke bære\ntørklæder\ni retten",
      "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/minister-beder-rigsadvokaten-indfoere-toerklaedeforbud-i-retten/11364751",
      "published": "2026-11-25T07:25+00:00"
-    },
-    {
-     "title": "Arbejdet forsinket: Udskyder trafik over ny Storstrømsbro til februar",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/arbejdet-forsinket-udskyder-trafik-over-ny-storstroemsbro-til-februar/11364740",
-     "published": "2026-11-25T07:12+00:00"
-    },
-    {
-     "title": "Danmark når det IKKE: \nVarsler \nny plan",
-     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/danmark-naar-ikke-centrale-maal-i-demensplan/11364692",
-     "published": "2026-11-25T06:44+00:00"
-    },
-    {
-     "title": "Uheld i morgentrafikken: Cyklist ramt af bil",
-     "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/uheld-i-morgentrafikken-cyklist-ramt-af-bil/11364689",
-     "published": "2026-11-25T06:27+00:00"
     }
    ]
   },
@@ -622,6 +622,31 @@
    "status": "ok",
    "items": [
     {
+     "title": "Årets Miss Universe er kåret – første mor nogensinde",
+     "link": "https://www.bt.dk/samfund/aarets-miss-universe-er-kaaret--foerste-mor-nogensinde?referrer=RSS",
+     "published": "2026-11-25T12:07+00:00"
+    },
+    {
+     "title": "Tre drenge er anholdt og mistænkt for angreb mod flygtningecenter i Tyskland",
+     "link": "https://www.bt.dk/udland/tre-drenge-er-anholdt-og-mistaenkt-for-angreb-mod-flygtningecenter-i-tyskland?referrer=RSS",
+     "published": "2026-11-25T12:06+00:00"
+    },
+    {
+     "title": "Minister beder Rigsadvokaten indføre tørklædeforbud i retten",
+     "link": "https://www.bt.dk/politik/minister-beder-rigsadvokaten-indfoere-toerklaedeforbud-i-retten?referrer=RSS",
+     "published": "2026-11-25T11:59+00:00"
+    },
+    {
+     "title": "Catalansk uro udløste krise: Separatist vender hjem til Spanien",
+     "link": "https://www.bt.dk/udland/catalansk-uro-udloeste-krise-separatist-vender-hjem-til-spanien?referrer=RSS",
+     "published": "2026-11-25T11:55+00:00"
+    },
+    {
+     "title": "Betjent hørte indsat sladre om polsk mand der blev dræbt og parteret",
+     "link": "https://www.bt.dk/krimi/betjent-hoerte-indsat-sladre-om-polsk-mand-der-blev-draebt-og-parteret?referrer=RSS",
+     "published": "2026-11-25T11:38+00:00"
+    },
+    {
      "title": "Pia Kjærsgaard deler billede: Har fået rygoperation",
      "link": "https://www.bt.dk/politik/pia-kjaersgaard-deler-billede-har-faaet-rygoperation?referrer=RSS",
      "published": "2026-11-25T11:08+00:00"
@@ -637,11 +662,6 @@
      "published": "2026-11-25T10:50+00:00"
     },
     {
-     "title": "Catalansk separatist vender hjem til Spanien efter ni år i eksil",
-     "link": "https://www.bt.dk/udland/catalansk-separatist-vender-hjem-til-spanien-efter-ni-aar-i-eksil?referrer=RSS",
-     "published": "2026-11-25T10:50+00:00"
-    },
-    {
      "title": "Afgående Novo-direktør skal lede Lundbeckfonden",
      "link": "https://www.bt.dk/erhverv/afgaaende-novo-direktoer-skal-lede-lundbeckfonden?referrer=RSS",
      "published": "2026-11-25T10:32+00:00"
@@ -650,26 +670,6 @@
      "title": "To mænd sigtes for indbrud i prins William og Kates landejendom",
      "link": "https://www.bt.dk/udland/to-maend-sigtes-for-indbrud-i-prins-william-og-kates-landejendom?referrer=RSS",
      "published": "2026-11-25T10:26+00:00"
-    },
-    {
-     "title": "Så mange muslimer er der i Danmark: Antallet er steget markant på fem år",
-     "link": "https://www.bt.dk/samfund/saa-mange-muslimer-er-der-i-danmark-antallet-er-steget-markant-paa-fem-aar?referrer=RSS",
-     "published": "2026-11-25T10:21+00:00"
-    },
-    {
-     "title": "Usædvanlig sag: Hotel slog alarm – gæst spiste og overnattede flere dage, før han smuttede",
-     "link": "https://www.bt.dk/krimi/usaedvanlig-sag-hotel-slog-alarm--gaest-spiste-og-overnattede-flere-dage-foer-han-smuttede?referrer=RSS",
-     "published": "2026-11-25T10:17+00:00"
-    },
-    {
-     "title": "13 bilister snuppet på én time: 'Kan få alvorlige konsekvenser'",
-     "link": "https://www.bt.dk/krimi/13-bilister-snuppet-paa-en-time-kan-faa-alvorlige-konsekvenser?referrer=RSS",
-     "published": "2026-11-25T10:07+00:00"
-    },
-    {
-     "title": "Generaloberst med vild forudsigelse: Rusland vil kollapse medmindre Putin fjernes fra magten",
-     "link": "https://www.bt.dk/udland/generaloberst-med-vild-forudsigelse-rusland-vil-kollapse-medmindre-putin-fjernes-fra-magten?referrer=RSS",
-     "published": "2026-11-25T10:06+00:00"
     }
    ]
   },
@@ -680,6 +680,41 @@
    "status": "ok",
    "items": [
     {
+     "title": "Årets Miss Universe er kåret – første mor nogensinde",
+     "link": "https://www.bt.dk/samfund/aarets-miss-universe-er-kaaret--foerste-mor-nogensinde?referrer=RSS",
+     "published": "2026-11-25T12:07+00:00"
+    },
+    {
+     "title": "Tre drenge er anholdt og mistænkt for angreb mod flygtningecenter i Tyskland",
+     "link": "https://www.bt.dk/udland/tre-drenge-er-anholdt-og-mistaenkt-for-angreb-mod-flygtningecenter-i-tyskland?referrer=RSS",
+     "published": "2026-11-25T12:06+00:00"
+    },
+    {
+     "title": "Cecilie Frøkjær og kæresten gennem 13 år har aldrig boet sammen: ‘En stor fordel’",
+     "link": "https://www.bt.dk/danske-kendte/cecilie-froekjaer-og-kaeresten-gennem-13-aar-har-aldrig-boet-sammen-en-stor-fordel?referrer=RSS",
+     "published": "2026-11-25T12:05+00:00"
+    },
+    {
+     "title": "Minister beder Rigsadvokaten indføre tørklædeforbud i retten",
+     "link": "https://www.bt.dk/politik/minister-beder-rigsadvokaten-indfoere-toerklaedeforbud-i-retten?referrer=RSS",
+     "published": "2026-11-25T11:59+00:00"
+    },
+    {
+     "title": "Catalansk uro udløste krise: Separatist vender hjem til Spanien",
+     "link": "https://www.bt.dk/udland/catalansk-uro-udloeste-krise-separatist-vender-hjem-til-spanien?referrer=RSS",
+     "published": "2026-11-25T11:55+00:00"
+    },
+    {
+     "title": "Bayern kendte ikke til Musiala-sygdom ved forlængelse",
+     "link": "https://www.bt.dk/fodbold/bayern-kendte-ikke-til-musiala-sygdom-ved-forlaengelse?referrer=RSS",
+     "published": "2026-11-25T11:45+00:00"
+    },
+    {
+     "title": "Betjent hørte indsat sladre om polsk mand der blev dræbt og parteret",
+     "link": "https://www.bt.dk/krimi/betjent-hoerte-indsat-sladre-om-polsk-mand-der-blev-draebt-og-parteret?referrer=RSS",
+     "published": "2026-11-25T11:38+00:00"
+    },
+    {
      "title": "Pia Kjærsgaard deler billede: Har fået rygoperation",
      "link": "https://www.bt.dk/politik/pia-kjaersgaard-deler-billede-har-faaet-rygoperation?referrer=RSS",
      "published": "2026-11-25T11:08+00:00"
@@ -693,41 +728,6 @@
      "title": "Klageret afviser at genåbne Sorteper-sag efter Den sorte svane",
      "link": "https://www.bt.dk/krimi/klageret-afviser-at-genaabne-sorteper-sag-efter-den-sorte-svane?referrer=RSS",
      "published": "2026-11-25T10:50+00:00"
-    },
-    {
-     "title": "Catalansk separatist vender hjem til Spanien efter ni år i eksil",
-     "link": "https://www.bt.dk/udland/catalansk-separatist-vender-hjem-til-spanien-efter-ni-aar-i-eksil?referrer=RSS",
-     "published": "2026-11-25T10:50+00:00"
-    },
-    {
-     "title": "Bank bliver ny hovedsponsor for DCU og Danmark Rundt",
-     "link": "https://www.bt.dk/cykling/bank-bliver-ny-hovedsponsor-for-dcu-og-danmark-rundt?referrer=RSS",
-     "published": "2026-11-25T10:43+00:00"
-    },
-    {
-     "title": "Lene Beier med opfordring til hotelgæster: Lad være med at ringe til mig",
-     "link": "https://www.bt.dk/danske-kendte/lene-beier-med-opfordring-til-hotelgaester-lad-vaere-med-at-ringe-til-mig?referrer=RSS",
-     "published": "2026-11-25T10:41+00:00"
-    },
-    {
-     "title": "Afgående Novo-direktør skal lede Lundbeckfonden",
-     "link": "https://www.bt.dk/erhverv/afgaaende-novo-direktoer-skal-lede-lundbeckfonden?referrer=RSS",
-     "published": "2026-11-25T10:32+00:00"
-    },
-    {
-     "title": "Ishockeyforbund tvivler på habilitet i Rusland-afgørelse",
-     "link": "https://www.bt.dk/oevrig-sport/ishockeyforbund-tvivler-paa-habilitet-i-rusland-afgoerelse?referrer=RSS",
-     "published": "2026-11-25T10:29+00:00"
-    },
-    {
-     "title": "To mænd sigtes for indbrud i prins William og Kates landejendom",
-     "link": "https://www.bt.dk/udland/to-maend-sigtes-for-indbrud-i-prins-william-og-kates-landejendom?referrer=RSS",
-     "published": "2026-11-25T10:26+00:00"
-    },
-    {
-     "title": "Så mange muslimer er der i Danmark: Antallet er steget markant på fem år",
-     "link": "https://www.bt.dk/samfund/saa-mange-muslimer-er-der-i-danmark-antallet-er-steget-markant-paa-fem-aar?referrer=RSS",
-     "published": "2026-11-25T10:21+00:00"
     }
    ]
   }
