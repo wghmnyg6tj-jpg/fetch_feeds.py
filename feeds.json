@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T20:29+00:00",
+ "generated": "2026-11-26T02:58+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -174,6 +174,16 @@
    "status": "ok",
    "items": [
     {
+     "title": "Sydgrønland åbner for alkohol igen - men med skærpede krav",
+     "link": "https://www.dr.dk/nyheder/indland/groenland/sydgroenland-aabner-alkohol-igen-men-med-skaerpede-krav",
+     "published": "2026-11-25T20:48+00:00"
+    },
+    {
+     "title": "Flytter på grund af DSB: 'Jeg gider ikke finde mig i det'",
+     "link": "https://www.dr.dk/nyheder/indland/reels/flytter-paa-grund-af-dsb-jeg-gider-ikke-finde-mig-i-det",
+     "published": "2026-11-25T20:30+00:00"
+    },
+    {
      "title": "Ny dims til iPhone skal stoppe impulskøb på black friday - men den hjælper de forkerte",
      "link": "https://www.dr.dk/nyheder/indland/ny-dims-til-iphone-skal-stoppe-impulskoeb-paa-black-friday-men-den-hjaelper-de-forkerte",
      "published": "2026-11-25T19:30+00:00"
@@ -237,16 +247,6 @@
      "title": "Skoler skal beholde deres spamfiltre, selvom de gemte på bombetrusler",
      "link": "https://www.dr.dk/nyheder/indland/skoler-skal-ikke-fjerne-deres-spamfiltre-selvom-de-opsnappede-og-gemte-bombetrusler",
      "published": "2026-11-25T12:14+00:00"
-    },
-    {
-     "title": "Her er Zahra. Hun kan ikke længere være anklager i retten",
-     "link": "https://www.dr.dk/nyheder/indland/her-er-zahra-hun-kan-ikke-laengere-vaere-anklager-i-retten",
-     "published": "2026-11-25T11:35+00:00"
-    },
-    {
-     "title": "Fund af plastik i foderproduktion hos dansk svinegigant",
-     "link": "https://www.dr.dk/nyheder/indland/fund-af-plastik-i-foderproduktion-hos-dansk-svinegigant",
-     "published": "2026-11-25T11:00+00:00"
     }
    ]
   },
@@ -256,6 +256,11 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/udland",
    "status": "ok",
    "items": [
+    {
+     "title": "Kan en Elon Musk-skat hjælpe Europas økonomisk pressede politikere?",
+     "link": "https://www.dr.dk/nyheder/udland/eu/kan-en-elon-musk-skat-hjaelpe-europas-oekonomisk-pressede-politikere",
+     "published": "2026-11-25T21:20+00:00"
+    },
     {
      "title": "EU-Domstolen vil have plan for forbud mod landbrugsdyr i bur",
      "link": "https://www.dr.dk/nyheder/udland/eu/eu-domstolen-vil-have-plan-forbud-mod-landbrugsdyr-i-bur",
@@ -325,11 +330,6 @@
      "title": "Vildtkamera fanger verdens eneste vilde albinopanda",
      "link": "https://www.dr.dk/nyheder/udland/vildtkamera-fanger-verdens-eneste-vilde-albinopanda",
      "published": "2026-11-25T08:10+00:00"
-    },
-    {
-     "title": "Dronning Mary fremhæver grønt samarbejde på historisk Colombia-besøg",
-     "link": "https://www.dr.dk/nyheder/udland/dronning-mary-fremhaever-groent-samarbejde-paa-historisk-colombia-besoeg",
-     "published": "2026-11-25T06:37+00:00"
     }
    ]
   },
@@ -339,6 +339,11 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/politik",
    "status": "ok",
    "items": [
+    {
+     "title": "Politisk ordfører: Selvfølgelig rammer omstridt højrefløjsord også 'personligt'",
+     "link": "https://www.dr.dk/nyheder/politik/politisk-ordfoerer-selvfoelgelig-rammer-omstridt-hoejrefloejsord-ogsaa-personligt",
+     "published": "2026-11-25T20:30+00:00"
+    },
     {
      "title": "Minister strammer reglerne: Offentlige anklagere må ikke bære religiøse tørklæder",
      "link": "https://www.dr.dk/nyheder/politik/minister-strammer-reglerne-offentlige-anklagere-maa-ikke-baere-religioese-toerklaeder",
@@ -408,11 +413,6 @@
      "title": "Moms på korttidsudlejning af boliger skal dæmme op for skyggehoteller",
      "link": "https://www.dr.dk/nyheder/politik/moms-paa-korttidsudlejning-af-boliger-skal-daemme-op-skyggehoteller",
      "published": "2026-11-23T04:58+00:00"
-    },
-    {
-     "title": "Trist, tragisk og en sort dag - få de danske politikeres reaktioner på COP31",
-     "link": "https://www.dr.dk/nyheder/viden/klima/live-klimatopmoede-i-antalya?focusId=12895003#liveblog-embed",
-     "published": "2026-11-22T15:16+00:00"
     }
    ]
   },
@@ -506,54 +506,54 @@
    "status": "ok",
    "items": [
     {
-     "title": "Debutfilm om pædofili scorer topkarakterer hos anmeldere",
-     "link": "https://ekstrabladet.dk/underholdning/kultur/debutfilm-om-paedofili-scorer-topkarakterer-hos-anmeldere/11365535",
-     "published": "2026-11-25T20:27+00:00"
+     "title": "Festlighederne ødelagt",
+     "link": "https://ekstrabladet.dk/nyheder/new-york-udskyder-stor-thanksgiving-parade-paa-grund-af-storm/11365628",
+     "published": "2026-11-26T01:50+00:00"
     },
     {
-     "title": "Elevator i stykker: Kørestols- og rollatorbrugere fanget",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/elevator-stod-stille-i-18-dage-aeldre-og-handicappede-fanget-i-eget-hjem/11362831",
-     "published": "2026-11-25T20:22+00:00"
+     "title": "Sender sms til 3,5 mio. nordmænd",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/millioner-i-norge-faar-sms-fra-staten-om-registrering-i-trossamfund/11365624",
+     "published": "2026-11-26T01:33+00:00"
     },
     {
-     "title": "Gina Jaqueline glad for DR's beslutning: - En hård og sej kamp",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/gina-jaqueline-glad-for-drs-beslutning-en-haard-og-sej-kamp/11365500",
-     "published": "2026-11-25T20:18+00:00"
+     "title": "17 nødstedte søfolk reddet efter forlis af islandsk fiskefartøj",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/17-noedstedte-soefolk-reddet-efter-forlis-af-islandsk-fiskefartoej/11365625",
+     "published": "2026-11-26T00:08+00:00"
     },
     {
-     "title": "Mindst 30 omkommet i brand efter trafikulykke i Egypten",
-     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/mindst-30-omkommet-i-brand-efter-trafikulykke-i-egypten/11365486",
-     "published": "2026-11-25T20:07+00:00"
+     "title": "Vild med Vingegaard: - En dræber på cyklen",
+     "link": "https://ekstrabladet.dk/sport/cykling/ny-sportsdirektoer-har-smukt-minde-med-draeberen-vingegaard/11364965",
+     "published": "2026-11-25T22:56+00:00"
     },
     {
-     "title": "Pokemon-røveri gik galt",
-     "link": "https://ekstrabladet.dk/krimi/pokemon-roeveri-gik-galt-fanget-paa-sociale-medier/11365128",
-     "published": "2026-11-25T19:54+00:00"
+     "title": "Eks-politiker\nmistænkt i \nbedragerisag",
+     "link": "https://ekstrabladet.dk/krimi/medie-tidligere-folketingspolitiker-mistaenkt-i-kaempe-bedragerisag/11364988",
+     "published": "2026-11-25T22:54+00:00"
     },
     {
-     "title": "LIVE: Jævnbyrdig indledning",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/championsleague/live-jaevnbyrdig-indledning/11365523",
-     "published": "2026-11-25T19:51+00:00"
+     "title": "Tessa jubler over ny udvikling: - Det vi drømte om!",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/tessa-jubler-over-ny-udvikling-det-vi-droemte-om/11365499",
+     "published": "2026-11-25T22:38+00:00"
     },
     {
-     "title": "Neestrup stikker til Brøndby",
-     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/superligaen/jacob-neestrup-stikker-til-broendby/11365506",
-     "published": "2026-11-25T19:40+00:00"
+     "title": "- Det er helt vanvittigt",
+     "link": "https://ekstrabladet.dk/krimi/rystet-over-kommentarer-det-er-helt-vanvittigt/11365252",
+     "published": "2026-11-25T22:37+00:00"
     },
     {
-     "title": "Barcelona satte AGF-bødler på plads",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/championsleague/barcelona-satte-agf-boedler-paa-plads/11365504",
-     "published": "2026-11-25T19:35+00:00"
+     "title": "Bizart drama: Sporting og United delte i Lissabon",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/championsleague/bizart-drama-sporting-og-united-delte-i-lissabon/11365602",
+     "published": "2026-11-25T21:57+00:00"
     },
     {
-     "title": "Pludselig væk: \nStor ændring på Matthew Perrys \ngravsten",
-     "link": "https://ekstrabladet.dk/underholdning/udlandkendte/pludselig-vaek-saerlig-friends-haeder-fjernet-fra-matthew-perry-gravsten/11364793",
-     "published": "2026-11-25T19:33+00:00"
+     "title": "Isak og Wirtz sprudlede for Liverpool",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/championsleague/isak-og-wirtz-sprudlede-for-liverpool/11365600",
+     "published": "2026-11-25T21:56+00:00"
     },
     {
-     "title": "Vinderen af \nkrig i Golfen",
-     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/oman-er-krigens-uventede-vinder/11364798",
-     "published": "2026-11-25T19:29+00:00"
+     "title": "Atletico pligtsejrede mod nordmænd",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/championsleague/atletico-pligtsejrede-mod-nordmaend/11365597",
+     "published": "2026-11-25T21:56+00:00"
     }
    ]
   },
@@ -563,6 +563,31 @@
    "url": "https://ekstrabladet.dk/rssfeed/nyheder/",
    "status": "ok",
    "items": [
+    {
+     "title": "Festlighederne ødelagt",
+     "link": "https://ekstrabladet.dk/nyheder/new-york-udskyder-stor-thanksgiving-parade-paa-grund-af-storm/11365628",
+     "published": "2026-11-26T01:50+00:00"
+    },
+    {
+     "title": "Sender sms til 3,5 mio. nordmænd",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/millioner-i-norge-faar-sms-fra-staten-om-registrering-i-trossamfund/11365624",
+     "published": "2026-11-26T01:33+00:00"
+    },
+    {
+     "title": "17 nødstedte søfolk reddet efter forlis af islandsk fiskefartøj",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/17-noedstedte-soefolk-reddet-efter-forlis-af-islandsk-fiskefartoej/11365625",
+     "published": "2026-11-26T00:08+00:00"
+    },
+    {
+     "title": "Andy Taylor fra Duran Duran er død",
+     "link": "https://ekstrabladet.dk/underholdning/udlandkendte/andy-taylor-fra-duran-duran-er-doed/11365589",
+     "published": "2026-11-25T21:51+00:00"
+    },
+    {
+     "title": "SpaceX får lov til at opsende en million satellitter til datacentre i rummet",
+     "link": "https://ekstrabladet.dk/nyheder/spacex-faar-lov-til-at-opsende-en-million-satellitter-til-datacentre-i-rummet/11365529",
+     "published": "2026-11-25T20:34+00:00"
+    },
     {
      "title": "Elevator i stykker: Kørestols- og rollatorbrugere fanget",
      "link": "https://ekstrabladet.dk/nyheder/samfund/elevator-stod-stille-i-18-dage-aeldre-og-handicappede-fanget-i-eget-hjem/11362831",
@@ -587,31 +612,6 @@
      "title": "Grønlandsk kommune ophæver forbud mod salg af alkohol",
      "link": "https://ekstrabladet.dk/nyheder/samfund/groenlandsk-kommune-ophaever-forbud-mod-salg-af-alkohol/11365442",
      "published": "2026-11-25T18:45+00:00"
-    },
-    {
-     "title": "Vilde anklager mod Messerschmidt",
-     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/venstre-politiker-med-vilde-anklager-mod-messerschmidt/11359761",
-     "published": "2026-11-25T18:26+00:00"
-    },
-    {
-     "title": "Mange tusinde \nuden varme",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/efter-brud-paa-roerledning-mange-tusinde-uden-varme/11365464",
-     "published": "2026-11-25T18:16+00:00"
-    },
-    {
-     "title": "Booster smagen: Toner kan ændre hjernen",
-     "link": "https://ekstrabladet.dk/nyheder/videnskab/booster-smagen-toner-kan-aendre-hjernen/11363924",
-     "published": "2026-11-25T17:57+00:00"
-    },
-    {
-     "title": "Giftig genforening: Løkkes medstifter skal vidne",
-     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/giftig-genforening-i-klovnebussen-jeppe-soee-skal-vidne/11365121",
-     "published": "2026-11-25T17:56+00:00"
-    },
-    {
-     "title": "Medicinrådet anbefaler ikke Eli Lilly-medicin mod Alzheimers",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/medicinraadet-anbefaler-ikke-eli-lilly-medicin-mod-alzheimers/11365418",
-     "published": "2026-11-25T17:14+00:00"
     }
    ]
   },
@@ -622,54 +622,54 @@
    "status": "ok",
    "items": [
     {
-     "title": "Utroskabsskandalen: Her er kvinderne i Jensen Huangs dobbeltliv",
-     "link": "https://www.bt.dk/udland/utroskabsskandalen-her-er-kvinderne-i-jensen-huangs-dobbeltliv?referrer=RSS",
-     "published": "2026-11-25T20:23+00:00"
+     "title": "Afdød freelancejournalist får international pris for Gaza-dækning",
+     "link": "https://www.bt.dk/udland/afdoed-freelancejournalist-faar-international-pris-for-gaza-daekning?referrer=RSS",
+     "published": "2026-11-26T02:44+00:00"
     },
     {
-     "title": "Debutfilm om pædofili scorer topkarakterer hos anmeldere",
-     "link": "https://www.bt.dk/samfund/debutfilm-om-paedofili-scorer-topkarakterer-hos-anmeldere?referrer=RSS",
-     "published": "2026-11-25T20:22+00:00"
+     "title": "Pitt og Jolie indgår forlig efter økonomisk slagsmål om vinslot",
+     "link": "https://www.bt.dk/udland/pitt-og-jolie-indgaar-forlig-efter-oekonomisk-slagsmaal-om-vinslot?referrer=RSS",
+     "published": "2026-11-26T02:09+00:00"
     },
     {
-     "title": "SpaceX får lov til at opsende en million satellitter til datacentre i rummet",
-     "link": "https://www.bt.dk/udland/spacex-faar-lov-til-at-opsende-en-million-satellitter-til-datacentre-i-rummet?referrer=RSS",
-     "published": "2026-11-25T20:19+00:00"
+     "title": "New York udskyder stor Thanksgiving-parade på grund af storm",
+     "link": "https://www.bt.dk/udland/new-york-udskyder-stor-thanksgiving-parade-paa-grund-af-storm?referrer=RSS",
+     "published": "2026-11-26T01:48+00:00"
     },
     {
-     "title": "To unge røvet ved banegård: Nu beder politiet om hjælp",
-     "link": "https://www.bt.dk/krimi/to-unge-roevet-ved-banegaard-nu-beder-politiet-om-hjaelp?referrer=RSS",
-     "published": "2026-11-25T20:10+00:00"
+     "title": "Millioner i Norge får sms fra staten om registrering i trossamfund",
+     "link": "https://www.bt.dk/udland/millioner-i-norge-faar-sms-fra-staten-om-registrering-i-trossamfund?referrer=RSS",
+     "published": "2026-11-26T00:23+00:00"
     },
     {
-     "title": "Ny undersøgelse viser: De knalder mindre",
-     "link": "https://www.bt.dk/udland/ny-undersoegelse-viser-de-knalder-mindre?referrer=RSS",
-     "published": "2026-11-25T19:52+00:00"
+     "title": "17 nødstedte søfolk reddet efter forlis af islandsk fiskefartøj",
+     "link": "https://www.bt.dk/udland/17-noedstedte-soefolk-reddet-efter-forlis-af-islandsk-fiskefartoej?referrer=RSS",
+     "published": "2026-11-26T00:16+00:00"
     },
     {
-     "title": "EU-Domstolen vil have plan for forbud mod landbrugsdyr i bur",
-     "link": "https://www.bt.dk/udland/eu-domstolen-vil-have-plan-for-forbud-mod-landbrugsdyr-i-bur?referrer=RSS",
-     "published": "2026-11-25T19:44+00:00"
+     "title": "Rystende fund hos erhvervsmand: Kæmpelager af børneporno",
+     "link": "https://www.bt.dk/krimi/rystende-fund-hos-erhvervsmand-kaempelager-af-boerneporno?referrer=RSS",
+     "published": "2026-11-25T22:40+00:00"
     },
     {
-     "title": "Lidegaard er i store træk enig i budskaber i protestbrev til statsministeren",
-     "link": "https://www.bt.dk/politik/lidegaard-er-i-store-traek-enig-i-budskaber-i-protestbrev-til-statsministeren?referrer=RSS",
-     "published": "2026-11-25T19:41+00:00"
+     "title": "Skræmmende scener: Fanget 20 meter over jorden",
+     "link": "https://www.bt.dk/udland/skraemmende-scener-fanget-20-meter-over-jorden?referrer=RSS",
+     "published": "2026-11-25T22:29+00:00"
     },
     {
-     "title": "Eva Selsing: Mette Frederiksens ord er et brud med venstrefløjens tabu",
-     "link": "https://www.bt.dk/samfund/eva-selsing-mette-frederiksens-ord-er-et-brud-med-venstrefloejens-tabu?referrer=RSS",
-     "published": "2026-11-25T19:32+00:00"
+     "title": "Spøjst billede går viralt: Bliver hånet på sociale medier",
+     "link": "https://www.bt.dk/udland/spoejst-billede-gaar-viralt-bliver-haanet-paa-sociale-medier?referrer=RSS",
+     "published": "2026-11-25T22:28+00:00"
     },
     {
-     "title": "Qvortrup: Kontroversielt ord kan ødelægge jobmuligheder for Mette Frederiksen",
-     "link": "https://www.bt.dk/politik/qvortrup-kontroversielt-ord-kan-oedelaegge-jobmuligheder-for-mette-frederiksen?referrer=RSS",
-     "published": "2026-11-25T18:24+00:00"
+     "title": "Nynazistisk terrorgruppe anholdt: Planlagde angreb i Tyskland",
+     "link": "https://www.bt.dk/udland/nynazistisk-terrorgruppe-anholdt-planlagde-angreb-i-tyskland?referrer=RSS",
+     "published": "2026-11-25T22:21+00:00"
     },
     {
-     "title": "Medicinrådet anbefaler ikke Eli Lilly-medicin mod Alzheimers",
-     "link": "https://www.bt.dk/samfund/medicinraadet-anbefaler-ikke-eli-lilly-medicin-mod-alzheimers?referrer=RSS",
-     "published": "2026-11-25T18:22+00:00"
+     "title": "Tidligere guitarist i Duran Duran er død som 65-årig",
+     "link": "https://www.bt.dk/udland/tidligere-guitarist-i-duran-duran-er-doed-som-65-aarig?referrer=RSS",
+     "published": "2026-11-25T22:16+00:00"
     }
    ]
   },
@@ -680,54 +680,54 @@
    "status": "ok",
    "items": [
     {
-     "title": "Utroskabsskandalen: Her er kvinderne i Jensen Huangs dobbeltliv",
-     "link": "https://www.bt.dk/udland/utroskabsskandalen-her-er-kvinderne-i-jensen-huangs-dobbeltliv?referrer=RSS",
-     "published": "2026-11-25T20:23+00:00"
+     "title": "Afdød freelancejournalist får international pris for Gaza-dækning",
+     "link": "https://www.bt.dk/udland/afdoed-freelancejournalist-faar-international-pris-for-gaza-daekning?referrer=RSS",
+     "published": "2026-11-26T02:44+00:00"
     },
     {
-     "title": "Debutfilm om pædofili scorer topkarakterer hos anmeldere",
-     "link": "https://www.bt.dk/samfund/debutfilm-om-paedofili-scorer-topkarakterer-hos-anmeldere?referrer=RSS",
-     "published": "2026-11-25T20:22+00:00"
+     "title": "Pitt og Jolie indgår forlig efter økonomisk slagsmål om vinslot",
+     "link": "https://www.bt.dk/udland/pitt-og-jolie-indgaar-forlig-efter-oekonomisk-slagsmaal-om-vinslot?referrer=RSS",
+     "published": "2026-11-26T02:09+00:00"
     },
     {
-     "title": "SpaceX får lov til at opsende en million satellitter til datacentre i rummet",
-     "link": "https://www.bt.dk/udland/spacex-faar-lov-til-at-opsende-en-million-satellitter-til-datacentre-i-rummet?referrer=RSS",
-     "published": "2026-11-25T20:19+00:00"
+     "title": "New York udskyder stor Thanksgiving-parade på grund af storm",
+     "link": "https://www.bt.dk/udland/new-york-udskyder-stor-thanksgiving-parade-paa-grund-af-storm?referrer=RSS",
+     "published": "2026-11-26T01:48+00:00"
     },
     {
-     "title": "To unge røvet ved banegård: Nu beder politiet om hjælp",
-     "link": "https://www.bt.dk/krimi/to-unge-roevet-ved-banegaard-nu-beder-politiet-om-hjaelp?referrer=RSS",
-     "published": "2026-11-25T20:10+00:00"
+     "title": "Millioner i Norge får sms fra staten om registrering i trossamfund",
+     "link": "https://www.bt.dk/udland/millioner-i-norge-faar-sms-fra-staten-om-registrering-i-trossamfund?referrer=RSS",
+     "published": "2026-11-26T00:23+00:00"
     },
     {
-     "title": "Ny undersøgelse viser: De knalder mindre",
-     "link": "https://www.bt.dk/udland/ny-undersoegelse-viser-de-knalder-mindre?referrer=RSS",
-     "published": "2026-11-25T19:52+00:00"
+     "title": "17 nødstedte søfolk reddet efter forlis af islandsk fiskefartøj",
+     "link": "https://www.bt.dk/udland/17-noedstedte-soefolk-reddet-efter-forlis-af-islandsk-fiskefartoej?referrer=RSS",
+     "published": "2026-11-26T00:16+00:00"
     },
     {
-     "title": "EU-Domstolen vil have plan for forbud mod landbrugsdyr i bur",
-     "link": "https://www.bt.dk/udland/eu-domstolen-vil-have-plan-for-forbud-mod-landbrugsdyr-i-bur?referrer=RSS",
-     "published": "2026-11-25T19:44+00:00"
+     "title": "Rystende fund hos erhvervsmand: Kæmpelager af børneporno",
+     "link": "https://www.bt.dk/krimi/rystende-fund-hos-erhvervsmand-kaempelager-af-boerneporno?referrer=RSS",
+     "published": "2026-11-25T22:40+00:00"
     },
     {
-     "title": "Barcelona overvinder drilsk start og sejrer stort i Aserbajdsjan",
-     "link": "https://www.bt.dk/fodbold/barcelona-overvinder-drilsk-start-og-sejrer-stort-i-aserbajdsjan?referrer=RSS",
-     "published": "2026-11-25T19:41+00:00"
+     "title": "Sterling dømt – inhalerede lattergas i bilen",
+     "link": "https://www.bt.dk/fodbold/sterling-doemt--inhalerede-lattergas-i-bilen?referrer=RSS",
+     "published": "2026-11-25T22:33+00:00"
     },
     {
-     "title": "Lidegaard er i store træk enig i budskaber i protestbrev til statsministeren",
-     "link": "https://www.bt.dk/politik/lidegaard-er-i-store-traek-enig-i-budskaber-i-protestbrev-til-statsministeren?referrer=RSS",
-     "published": "2026-11-25T19:41+00:00"
+     "title": "Skræmmende scener: Fanget 20 meter over jorden",
+     "link": "https://www.bt.dk/udland/skraemmende-scener-fanget-20-meter-over-jorden?referrer=RSS",
+     "published": "2026-11-25T22:29+00:00"
     },
     {
-     "title": "Eva Selsing: Mette Frederiksens ord er et brud med venstrefløjens tabu",
-     "link": "https://www.bt.dk/samfund/eva-selsing-mette-frederiksens-ord-er-et-brud-med-venstrefloejens-tabu?referrer=RSS",
-     "published": "2026-11-25T19:32+00:00"
+     "title": "Spøjst billede går viralt: Bliver hånet på sociale medier",
+     "link": "https://www.bt.dk/udland/spoejst-billede-gaar-viralt-bliver-haanet-paa-sociale-medier?referrer=RSS",
+     "published": "2026-11-25T22:28+00:00"
     },
     {
-     "title": "Markgrafs røde kort er trukket tilbage: 'Farcen er total'",
-     "link": "https://www.bt.dk/fodbold/markgrafs-roede-kort-er-trukket-tilbage-farcen-er-total?referrer=RSS",
-     "published": "2026-11-25T19:09+00:00"
+     "title": "Nynazistisk terrorgruppe anholdt: Planlagde angreb i Tyskland",
+     "link": "https://www.bt.dk/udland/nynazistisk-terrorgruppe-anholdt-planlagde-angreb-i-tyskland?referrer=RSS",
+     "published": "2026-11-25T22:21+00:00"
     }
    ]
   }
