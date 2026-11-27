@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T20:39+00:00",
+ "generated": "2026-11-27T03:16+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -199,7 +199,7 @@
      "published": "2026-11-26T20:00+00:00"
     },
     {
-     "title": "Diana kalder sig Sparemor: Her er hendes fem bedste sparetips til Black Friday",
+     "title": "Diana kalder sig 'Sparemor': Her er hendes fem bedste sparetips til Black Friday",
      "link": "https://www.dr.dk/nyheder/indland/diana-kalder-sig-sparemor-her-er-hendes-fem-bedste-sparetips-til-black-friday",
      "published": "2026-11-26T19:21+00:00"
     },
@@ -256,6 +256,21 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/udland",
    "status": "ok",
    "items": [
+    {
+     "title": "Kun 24 EU-lande stiller sig bag Ukraine-lån på topmøde",
+     "link": "https://www.dr.dk/nyheder/udland/kun-24-eu-lande-stiller-sig-bag-ukraine-laan-paa-topmoede",
+     "published": "2026-11-27T01:12+00:00"
+    },
+    {
+     "title": "Forhandlingskollaps: Afbryder EU-topmøde en dag før tid",
+     "link": "https://www.dr.dk/nyheder/udland/eu/forhandlingskollaps-afbryder-eu-topmoede-en-dag-foer-tid",
+     "published": "2026-11-26T21:18+00:00"
+    },
+    {
+     "title": "Slagsmål om vitalt Ukraine-lån spidser til: 'Ingen mulighed' for kompromisser i år, siger Merz",
+     "link": "https://www.dr.dk/nyheder/udland/slagsmaal-om-vitalt-ukraine-laan-spidser-til-ingen-mulighed-kompromisser-i-aar-siger-merz",
+     "published": "2026-11-26T21:00+00:00"
+    },
     {
      "title": "Ekspert: LeBron James kaster 'ekstra stjernedrys' på Novo med nyt NBA-sponsorat",
      "link": "https://www.dr.dk/nyheder/penge/ekspert-lebron-james-kaster-ekstra-stjernedrys-paa-novo-med-nyt-nba-sponsorat",
@@ -315,21 +330,6 @@
      "title": "'Brangelina' lægger stridsøksen efter slagsmål om vinslot",
      "link": "https://www.dr.dk/nyheder/udland/brangelina-laegger-stridsoeksen-efter-slagsmaal-om-vinslot",
      "published": "2026-11-26T05:52+00:00"
-    },
-    {
-     "title": "LIVE: EU-topmøde om nyt milliardbudget",
-     "link": "https://www.dr.dk/nyheder/udland/live-eu-topmoede-om-nyt-milliardbudget",
-     "published": "2026-11-26T05:32+00:00"
-    },
-    {
-     "title": "Trump og Rutte efter møde: Rusland skal ikke udvide krigen",
-     "link": "https://www.dr.dk/nyheder/udland/trump-og-rutte-efter-moede-rusland-skal-ikke-udvide-krigen",
-     "published": "2026-11-26T04:25+00:00"
-    },
-    {
-     "title": "Merz er på tværs og Macron kræver handling - svært EU-topmøde i vente",
-     "link": "https://www.dr.dk/nyheder/udland/merz-er-paa-tvaers-og-macron-kraever-handling-svaert-eu-topmoede-i-vente",
-     "published": "2026-11-26T03:45+00:00"
     }
    ]
   },
@@ -506,54 +506,54 @@
    "status": "ok",
    "items": [
     {
-     "title": "Yandex \nlancerer ny\novervågningshalskæde",
-     "link": "https://ekstrabladet.dk/forbrug/Teknologi/ruslands-svar-paa-google-lancerer-ny-overvaagningshalskaede/11366329",
-     "published": "2026-11-26T20:36+00:00"
+     "title": "Delaney køber kritikken: Men hvad har jeg så tilbage?",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/delaney-koeber-kritikken-men-hvad-har-jeg-saa-tilbage/11367012",
+     "published": "2026-11-27T02:33+00:00"
     },
     {
-     "title": "Kan blive dyrt: \nPengekløften vokser\nmellem mænd og kvinder",
-     "link": "https://ekstrabladet.dk/penge/voksende-pengekloeft-kan-ramme-kvinderne-i-aartier/11364976",
-     "published": "2026-11-26T20:33+00:00"
+     "title": "Zelenskyj vil have USA til at øge presset på Putin",
+     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/zelenskyj-vil-have-usa-til-at-oege-presset-paa-putin/11367005",
+     "published": "2026-11-27T01:17+00:00"
     },
     {
-     "title": "Dansk dommer afbryder Europa League-kamp",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/europaleague/europa-league-kamp-afbrudt-dansk-dommer-tog-beslutningen/11366858",
-     "published": "2026-11-26T20:27+00:00"
+     "title": "Slut med pengeregn",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/argentina-forbyder-centralbanken-at-trykke-penge-til-staten/11367000",
+     "published": "2026-11-27T00:22+00:00"
     },
     {
-     "title": "Macron stiller tårnhøje krav til EU-budgetaftale",
-     "link": "https://ekstrabladet.dk/nyheder/politik/macron-stiller-taarnhoeje-krav-til-eu-budgetaftale/11366809",
-     "published": "2026-11-26T20:24+00:00"
+     "title": "Kontant FCK-chef: Markgraf satte holdet ud til tørre",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/kontant-fck-chef-markgraf-satte-holdet-ud-til-toerre/11367002",
+     "published": "2026-11-26T23:33+00:00"
     },
     {
-     "title": "Hvid jul?\nDMI melder ud",
-     "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/dmi-med-sne-nyt-holder-liv-i-den-hvide-jul/11366108",
-     "published": "2026-11-26T20:22+00:00"
+     "title": "Ukraine afviser: Vil ikke udvide krigen til andre lande",
+     "link": "https://ekstrabladet.dk/nyheder/ukraine-afviser-vil-ikke-udvide-krigen-til-andre-lande/11366983",
+     "published": "2026-11-26T22:52+00:00"
     },
     {
-     "title": "Advarer:\nDe gør klar til \nmassivt angreb",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/zelenskyj-advarer-rusland-goer-klar-til-massivt-angreb/11366847",
-     "published": "2026-11-26T20:10+00:00"
+     "title": "Bo Svensson langer ud: En del at tænke over",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/bo-svensson-langer-ud-en-del-at-taenke-over/11366988",
+     "published": "2026-11-26T22:51+00:00"
     },
     {
-     "title": "AaB-kollaps: Taber hjemme til Esbjerg",
-     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/1division/aab-kollaps-taber-hjemme-til-esbjerg/11366840",
-     "published": "2026-11-26T20:08+00:00"
+     "title": "Mystisk fund på havets bund: Ligner noget fra en gyserfilm",
+     "link": "https://ekstrabladet.dk/nyheder/videnskab/maerkvaerdigt-fund-paa-havets-bund-troede-det-var-et-skibsvrag/11366355",
+     "published": "2026-11-26T22:32+00:00"
     },
     {
-     "title": "Mere end\n700.000\nhjem uden strøm",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/storm-saetter-en-stopper-for-amerikanernes-thanksgiving-700.000-hjem-uden-stroem/11366817",
-     "published": "2026-11-26T19:57+00:00"
+     "title": "Thomas Delaney om enorm fiasko: - Føles ad helvedes til",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/thomas-delaney-om-enorm-fiasko-foeles-ad-helvedes-til/11366985",
+     "published": "2026-11-26T22:29+00:00"
     },
     {
-     "title": "LIVE: Tæt på FCN-scoring!",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/live-taet-paa-fcn-scoring/11366832",
-     "published": "2026-11-26T19:52+00:00"
+     "title": "Dansk spil\nvinder\nGoogle-pris",
+     "link": "https://ekstrabladet.dk/forbrug/Teknologi/danske-deep-rock-galactic-survivor-vinder-googles-pris-for-bedste-indiespil/11360338",
+     "published": "2026-11-26T22:29+00:00"
     },
     {
-     "title": "LIVE: Av, FCK! Vanvidsflugter i Andorra",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/live-av-fck-vanvidsflugter-i-andorra/11366829",
-     "published": "2026-11-26T19:52+00:00"
+     "title": "Kasper Hjulmand slagter FCK'er: - En hjerneblødning",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/conferenceleague/kasper-hjulmand-reagerer-paa-fck-kollaps-og-roedt-chok-en-hjernebloedning/11366907",
+     "published": "2026-11-26T22:15+00:00"
     }
    ]
   },
@@ -564,6 +564,46 @@
    "status": "ok",
    "items": [
     {
+     "title": "Zelenskyj vil have USA til at øge presset på Putin",
+     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/zelenskyj-vil-have-usa-til-at-oege-presset-paa-putin/11367005",
+     "published": "2026-11-27T01:17+00:00"
+    },
+    {
+     "title": "Slut med pengeregn",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/argentina-forbyder-centralbanken-at-trykke-penge-til-staten/11367000",
+     "published": "2026-11-27T00:22+00:00"
+    },
+    {
+     "title": "Ukraine afviser: Vil ikke udvide krigen til andre lande",
+     "link": "https://ekstrabladet.dk/nyheder/ukraine-afviser-vil-ikke-udvide-krigen-til-andre-lande/11366983",
+     "published": "2026-11-26T22:52+00:00"
+    },
+    {
+     "title": "Mystisk fund på havets bund: Ligner noget fra en gyserfilm",
+     "link": "https://ekstrabladet.dk/nyheder/videnskab/maerkvaerdigt-fund-paa-havets-bund-troede-det-var-et-skibsvrag/11366355",
+     "published": "2026-11-26T22:32+00:00"
+    },
+    {
+     "title": "31 døde i flammehav: Nu er bilist anholdt",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/31-doede-i-flammehav-nu-er-bilist-anholdt/11366935",
+     "published": "2026-11-26T22:02+00:00"
+    },
+    {
+     "title": "Kalder Trumps \nUkraine-plan 'en \ngang bullshit'",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/ekspert-om-trumps-ukraine-plan-det-er-jo-bare-en-gang-bullshit/11365946",
+     "published": "2026-11-26T21:30+00:00"
+    },
+    {
+     "title": "To italienere dræbt i droneangreb i Kuwait",
+     "link": "https://ekstrabladet.dk/nyheder/to-italienere-draebt-i-droneangreb-i-kuwait/11366887",
+     "published": "2026-11-26T20:55+00:00"
+    },
+    {
+     "title": "Politi undrer sig:\nSeks uheld\npå fire timer",
+     "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/politiet-undrer-sig-seks-uheld-paa-fire-timer/11366889",
+     "published": "2026-11-26T20:51+00:00"
+    },
+    {
      "title": "Macron stiller tårnhøje krav til EU-budgetaftale",
      "link": "https://ekstrabladet.dk/nyheder/politik/macron-stiller-taarnhoeje-krav-til-eu-budgetaftale/11366809",
      "published": "2026-11-26T20:24+00:00"
@@ -572,46 +612,6 @@
      "title": "Hvid jul?\nDMI melder ud",
      "link": "https://ekstrabladet.dk/nyheder/trafikogvejr/dmi-med-sne-nyt-holder-liv-i-den-hvide-jul/11366108",
      "published": "2026-11-26T20:22+00:00"
-    },
-    {
-     "title": "Advarer:\nDe gør klar til \nmassivt angreb",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/zelenskyj-advarer-rusland-goer-klar-til-massivt-angreb/11366847",
-     "published": "2026-11-26T20:10+00:00"
-    },
-    {
-     "title": "Mere end\n700.000\nhjem uden strøm",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/storm-saetter-en-stopper-for-amerikanernes-thanksgiving-700.000-hjem-uden-stroem/11366817",
-     "published": "2026-11-26T19:57+00:00"
-    },
-    {
-     "title": "Alle opsagt\nefter brand",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/alle-medarbejdere-opsagt-efter-brand-den-tungeste-beslutning/11365729",
-     "published": "2026-11-26T19:22+00:00"
-    },
-    {
-     "title": "Vandt en \nmillion i lotto: \nSå blev han anholdt",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/vandt-en-million-i-lotto-saa-blev-han-anholdt/11366133",
-     "published": "2026-11-26T19:07+00:00"
-    },
-    {
-     "title": "Nordkorea\ntruer med\natomkrig",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/kim-jong-un-om-atomvaaben-nordkoreas-atomkapacitet-er-nu-en-realitet/11366522",
-     "published": "2026-11-26T18:28+00:00"
-    },
-    {
-     "title": "Sagde han\nlige det?!",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/toejkaedestifter-chokerer-under-oplaeg-der-loed-tydelige-gisp-i-rummet/11365875",
-     "published": "2026-11-26T17:18+00:00"
-    },
-    {
-     "title": "Kina-frygt breder sig: Nervøse for krematorier",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/kina-frygt-breder-sig-nervoese-for-krematorier/11365635",
-     "published": "2026-11-26T17:08+00:00"
-    },
-    {
-     "title": "Giv folk deres feriepenge",
-     "link": "https://ekstrabladet.dk/nyheder/lederen/giv-folk-deres-feriepenge/11366558",
-     "published": "2026-11-26T17:00+00:00"
     }
    ]
   },
@@ -622,54 +622,54 @@
    "status": "ok",
    "items": [
     {
-     "title": "Melvins juleråd: Køb det, der ikke står på listen",
-     "link": "https://www.bt.dk/samfund/melvins-juleraad-koeb-det-der-ikke-staar-paa-listen?referrer=RSS",
-     "published": "2026-11-26T20:33+00:00"
+     "title": "New Zealands regering misser flertal med ét mandat efter valg",
+     "link": "https://www.bt.dk/udland/new-zealands-regering-misser-flertal-med-et-mandat-efter-valg?referrer=RSS",
+     "published": "2026-11-27T01:42+00:00"
     },
     {
-     "title": "Macron stiller tårnhøje krav til EU-budgetaftale",
-     "link": "https://www.bt.dk/udland/macron-stiller-taarnhoeje-krav-til-eu-budgetaftale?referrer=RSS",
-     "published": "2026-11-26T20:22+00:00"
+     "title": "Trump: Nvidias topchef udgør ikke en sikkerhedstrussel",
+     "link": "https://www.bt.dk/udland/trump-nvidias-topchef-udgoer-ikke-en-sikkerhedstrussel?referrer=RSS",
+     "published": "2026-11-27T01:35+00:00"
     },
     {
-     "title": "Kerteminde Byråd stemmer milliardudvidelse af Odense Havn ned",
-     "link": "https://www.bt.dk/samfund/kerteminde-byraad-stemmer-milliardudvidelse-af-odense-havn-ned?referrer=RSS",
-     "published": "2026-11-26T20:08+00:00"
+     "title": "Zelenskyj vil have USA til at øge presset på Putin",
+     "link": "https://www.bt.dk/udland/zelenskyj-vil-have-usa-til-at-oege-presset-paa-putin?referrer=RSS",
+     "published": "2026-11-27T00:44+00:00"
     },
     {
-     "title": "Zelenskyj advarer: Nyt masseangreb på vej",
-     "link": "https://www.bt.dk/udland/zelenskyj-advarer-nyt-masseangreb-paa-vej?referrer=RSS",
-     "published": "2026-11-26T20:07+00:00"
+     "title": "Kun 24 EU-lande stiller sig bag Ukraine-lån på topmøde",
+     "link": "https://www.bt.dk/udland/kun-24-eu-lande-stiller-sig-bag-ukraine-laan-paa-topmoede?referrer=RSS",
+     "published": "2026-11-27T00:44+00:00"
     },
     {
-     "title": "FN-agentur i dialog med Rusland og Ukraine om ny våbenhvile",
-     "link": "https://www.bt.dk/udland/fn-agentur-i-dialog-med-rusland-og-ukraine-om-ny-vaabenhvile?referrer=RSS",
-     "published": "2026-11-26T19:37+00:00"
+     "title": "Costa tror fortsat på budgetaftale efter dybt splittet EU-topmøde",
+     "link": "https://www.bt.dk/udland/costa-tror-fortsat-paa-budgetaftale-efter-dybt-splittet-eu-topmoede?referrer=RSS",
+     "published": "2026-11-27T00:31+00:00"
     },
     {
-     "title": "Kvinde død i Alaska lufthavn: Gik ind i propel",
-     "link": "https://www.bt.dk/udland/kvinde-doed-i-alaska-lufthavn-gik-ind-i-propel?referrer=RSS",
-     "published": "2026-11-26T19:19+00:00"
+     "title": "Argentina forbyder centralbanken at trykke penge til staten",
+     "link": "https://www.bt.dk/udland/argentina-forbyder-centralbanken-at-trykke-penge-til-staten?referrer=RSS",
+     "published": "2026-11-27T00:10+00:00"
     },
     {
-     "title": "Fem rumænere fængslet for at stjæle vin på danske restauranter",
-     "link": "https://www.bt.dk/krimi/fem-rumaenere-faengslet-for-at-stjaele-vin-paa-danske-restauranter?referrer=RSS",
-     "published": "2026-11-26T18:59+00:00"
+     "title": "Holland vil have nyt udspil til EU-budget efter fastlåste forhandlinger",
+     "link": "https://www.bt.dk/udland/holland-vil-have-nyt-udspil-til-eu-budget-efter-fastlaaste-forhandlinger?referrer=RSS",
+     "published": "2026-11-26T23:00+00:00"
     },
     {
-     "title": "Sverige indkalder russisk ambassadør efter attentatplaner i Danmark",
-     "link": "https://www.bt.dk/udland/sverige-indkalder-russisk-ambassadoer-efter-attentatplaner-i-danmark?referrer=RSS",
-     "published": "2026-11-26T18:24+00:00"
+     "title": "Qvortrup efter Utøya-overlevendes kritik af Mette Frederiksen: Den gør nas!",
+     "link": "https://www.bt.dk/politik/qvortrup-efter-utoeya-overlevendes-kritik-af-mette-frederiksen-den-goer-nas?referrer=RSS",
+     "published": "2026-11-26T22:42+00:00"
     },
     {
-     "title": "TV 2 bekræfter sigtelser forbundet til Den sorte svane",
-     "link": "https://www.bt.dk/krimi/tv-2-bekraefter-sigtelser-forbundet-til-den-sorte-svane?referrer=RSS",
-     "published": "2026-11-26T18:17+00:00"
+     "title": "Ukraine har ingen intentioner om at udvide krigen mod Rusland",
+     "link": "https://www.bt.dk/udland/ukraine-har-ingen-intentioner-om-at-udvide-krigen-mod-rusland?referrer=RSS",
+     "published": "2026-11-26T22:39+00:00"
     },
     {
-     "title": "Makedonsk LTF-medlem er anholdt for bombesprængning i Valby",
-     "link": "https://www.bt.dk/krimi/makedonsk-ltf-medlem-er-anholdt-for-bombespraengning-i-valby?referrer=RSS",
-     "published": "2026-11-26T18:07+00:00"
+     "title": "Se videoen: Her rammer stormen pludselig",
+     "link": "https://www.bt.dk/samfund/se-videoen-her-rammer-stormen-pludselig?referrer=RSS",
+     "published": "2026-11-26T22:25+00:00"
     }
    ]
   },
@@ -680,54 +680,54 @@
    "status": "ok",
    "items": [
     {
-     "title": "Melvins juleråd: Køb det, der ikke står på listen",
-     "link": "https://www.bt.dk/samfund/melvins-juleraad-koeb-det-der-ikke-staar-paa-listen?referrer=RSS",
-     "published": "2026-11-26T20:33+00:00"
+     "title": "Tyrkisk storklub klager til Uefa efter sammenstød i Europa League",
+     "link": "https://www.bt.dk/fodbold/tyrkisk-storklub-klager-til-uefa-efter-sammenstoed-i-europa-league?referrer=RSS",
+     "published": "2026-11-27T03:14+00:00"
     },
     {
-     "title": "Uroligheder tvang dansk dommer til at afbryde Europa League-kamp",
-     "link": "https://www.bt.dk/fodbold/uroligheder-tvang-dansk-dommer-til-at-afbryde-europa-league-kamp?referrer=RSS",
-     "published": "2026-11-26T20:25+00:00"
+     "title": "New Zealands regering misser flertal med ét mandat efter valg",
+     "link": "https://www.bt.dk/udland/new-zealands-regering-misser-flertal-med-et-mandat-efter-valg?referrer=RSS",
+     "published": "2026-11-27T01:42+00:00"
     },
     {
-     "title": "Macron stiller tårnhøje krav til EU-budgetaftale",
-     "link": "https://www.bt.dk/udland/macron-stiller-taarnhoeje-krav-til-eu-budgetaftale?referrer=RSS",
-     "published": "2026-11-26T20:22+00:00"
+     "title": "Trump: Nvidias topchef udgør ikke en sikkerhedstrussel",
+     "link": "https://www.bt.dk/udland/trump-nvidias-topchef-udgoer-ikke-en-sikkerhedstrussel?referrer=RSS",
+     "published": "2026-11-27T01:35+00:00"
     },
     {
-     "title": "Kerteminde Byråd stemmer milliardudvidelse af Odense Havn ned",
-     "link": "https://www.bt.dk/samfund/kerteminde-byraad-stemmer-milliardudvidelse-af-odense-havn-ned?referrer=RSS",
-     "published": "2026-11-26T20:08+00:00"
+     "title": "Zelenskyj vil have USA til at øge presset på Putin",
+     "link": "https://www.bt.dk/udland/zelenskyj-vil-have-usa-til-at-oege-presset-paa-putin?referrer=RSS",
+     "published": "2026-11-27T00:44+00:00"
     },
     {
-     "title": "Zelenskyj advarer: Nyt masseangreb på vej",
-     "link": "https://www.bt.dk/udland/zelenskyj-advarer-nyt-masseangreb-paa-vej?referrer=RSS",
-     "published": "2026-11-26T20:07+00:00"
+     "title": "Kun 24 EU-lande stiller sig bag Ukraine-lån på topmøde",
+     "link": "https://www.bt.dk/udland/kun-24-eu-lande-stiller-sig-bag-ukraine-laan-paa-topmoede?referrer=RSS",
+     "published": "2026-11-27T00:44+00:00"
     },
     {
-     "title": "Kendt sexolog kritiserer nyt DR-program: 'Det er falsk varedeklaration'",
-     "link": "https://www.bt.dk/danske-kendte/kendt-sexolog-kritiserer-nyt-dr-program-det-er-falsk-varedeklaration?referrer=RSS",
-     "published": "2026-11-26T20:05+00:00"
+     "title": "Costa tror fortsat på budgetaftale efter dybt splittet EU-topmøde",
+     "link": "https://www.bt.dk/udland/costa-tror-fortsat-paa-budgetaftale-efter-dybt-splittet-eu-topmoede?referrer=RSS",
+     "published": "2026-11-27T00:31+00:00"
     },
     {
-     "title": "Velspillende AGF tager sin første sejr i Europa",
-     "link": "https://www.bt.dk/fodbold/velspillende-agf-tager-sin-foerste-sejr-i-europa?referrer=RSS",
-     "published": "2026-11-26T19:47+00:00"
+     "title": "Argentina forbyder centralbanken at trykke penge til staten",
+     "link": "https://www.bt.dk/udland/argentina-forbyder-centralbanken-at-trykke-penge-til-staten?referrer=RSS",
+     "published": "2026-11-27T00:10+00:00"
     },
     {
-     "title": "Tilbagevendt Gogorza cementerer FCM-sejr på Cypern",
-     "link": "https://www.bt.dk/fodbold/tilbagevendt-gogorza-cementerer-fcm-sejr-paa-cypern?referrer=RSS",
-     "published": "2026-11-26T19:47+00:00"
+     "title": "FCK-træner revser holdet efter ydmygelse: Det er under lavmålet",
+     "link": "https://www.bt.dk/fodbold/fck-traener-revser-holdet-efter-ydmygelse-det-er-under-lavmaalet?referrer=RSS",
+     "published": "2026-11-26T23:04+00:00"
     },
     {
-     "title": "Aalborg får hul på storspillende Emil Nielsen i stort comeback",
-     "link": "https://www.bt.dk/haandbold/aalborg-faar-hul-paa-storspillende-emil-nielsen-i-stort-comeback?referrer=RSS",
-     "published": "2026-11-26T19:47+00:00"
+     "title": "Holland vil have nyt udspil til EU-budget efter fastlåste forhandlinger",
+     "link": "https://www.bt.dk/udland/holland-vil-have-nyt-udspil-til-eu-budget-efter-fastlaaste-forhandlinger?referrer=RSS",
+     "published": "2026-11-26T23:00+00:00"
     },
     {
-     "title": "FN-agentur i dialog med Rusland og Ukraine om ny våbenhvile",
-     "link": "https://www.bt.dk/udland/fn-agentur-i-dialog-med-rusland-og-ukraine-om-ny-vaabenhvile?referrer=RSS",
-     "published": "2026-11-26T19:37+00:00"
+     "title": "Neestrup forsvarer dansk debutant efter selvmål",
+     "link": "https://www.bt.dk/fodbold/neestrup-forsvarer-dansk-debutant-efter-selvmaal?referrer=RSS",
+     "published": "2026-11-26T22:57+00:00"
     }
    ]
   }
