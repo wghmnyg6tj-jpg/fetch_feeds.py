@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T12:51+00:00",
+ "generated": "2026-11-27T21:42+00:00",
  "feeds": [
   {
    "source": "DR",
@@ -7,6 +7,51 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/senestenyt",
    "status": "ok",
    "items": [
+    {
+     "title": "USA angriber fartøj i Omanbugten",
+     "link": "https://www.dr.dk/nyheder/seneste/usa-angriber-fartoej-i-omanbugten",
+     "published": "2026-11-27T18:31+00:00"
+    },
+    {
+     "title": "15-årig død efter trafikulykke i tirsdags",
+     "link": "https://www.dr.dk/nyheder/seneste/15-aarig-doed-efter-trafikulykke-i-tirsdags",
+     "published": "2026-11-27T17:38+00:00"
+    },
+    {
+     "title": "Otte migranter døde i forsøget på at nå Europa",
+     "link": "https://www.dr.dk/nyheder/seneste/otte-migranter-doede-i-forsoeget-paa-naa-europa",
+     "published": "2026-11-27T16:21+00:00"
+    },
+    {
+     "title": "Styrelse følger sikkerhedsbrud hos teleudbyder - flere organisationer ventes ramt",
+     "link": "https://www.dr.dk/nyheder/seneste/styrelse-foelger-sikkerhedsbrud-hos-teleudbyder-flere-organisationer-ventes-ramt",
+     "published": "2026-11-27T16:13+00:00"
+    },
+    {
+     "title": "Politikreds skruer bissen på overfor LTF",
+     "link": "https://www.dr.dk/nyheder/seneste/politikreds-skruer-bissen-paa-overfor-ltf",
+     "published": "2026-11-27T14:50+00:00"
+    },
+    {
+     "title": "To unge mænd idømmes flere års fængsel i narkosag",
+     "link": "https://www.dr.dk/nyheder/seneste/unge-maend-idoemmes-flere-aars-faengsel-i-narkosag",
+     "published": "2026-11-27T13:46+00:00"
+    },
+    {
+     "title": "Færre danskere lever med KOL",
+     "link": "https://www.dr.dk/nyheder/seneste/faerre-danskere-lever-med-kol",
+     "published": "2026-11-27T13:34+00:00"
+    },
+    {
+     "title": "Styrelse advarer dyreejere om hårtabsmiddel",
+     "link": "https://www.dr.dk/nyheder/seneste/styrelse-advarer-dyreejere-om-haartabsmiddel",
+     "published": "2026-11-27T13:34+00:00"
+    },
+    {
+     "title": "FN advarer: Sult og hungersnød truer 16 områder i verden",
+     "link": "https://www.dr.dk/nyheder/seneste/fn-advarer-sult-og-hungersnoed-truer-16-omraader-i-verden",
+     "published": "2026-11-27T13:33+00:00"
+    },
     {
      "title": "18-årig fængslet for skud mod tidligere boksers kolonihave",
      "link": "https://www.dr.dk/nyheder/seneste/18-aarig-faengslet-skud-mod-tidligere-boksers-kolonihave",
@@ -36,51 +81,6 @@
      "title": "Nordmakedoner varetægtsfængslet efter bombesprængning",
      "link": "https://www.dr.dk/nyheder/seneste/nordmakedoner-varetaegtsfaengslet-efter-bombespraengning",
      "published": "2026-11-27T10:58+00:00"
-    },
-    {
-     "title": "Novo lancerer vægttabspille i Sverige juleaftensdag",
-     "link": "https://www.dr.dk/nyheder/seneste/novo-lancerer-vaegtabspille-i-sverige-juleaftensdag",
-     "published": "2026-11-27T09:39+00:00"
-    },
-    {
-     "title": "Resten af året kan du køre gratis i S-tog om søndagen",
-     "link": "https://www.dr.dk/nyheder/seneste/resten-af-aaret-kan-du-koere-gratis-i-s-tog-om-soendagen",
-     "published": "2026-11-27T08:49+00:00"
-    },
-    {
-     "title": "Fransk stjerneskuespiller skal igen for retten",
-     "link": "https://www.dr.dk/nyheder/seneste/fransk-stjerneskuespiller-skal-igen-retten",
-     "published": "2026-11-27T08:38+00:00"
-    },
-    {
-     "title": "Kvinde omkommet i brand i Ringe på Fyn",
-     "link": "https://www.dr.dk/nyheder/seneste/kvinde-omkommet-i-brand-i-ringe-paa-fyn",
-     "published": "2026-11-27T06:15+00:00"
-    },
-    {
-     "title": "Sydkorea sender seks nordkoreanere retur",
-     "link": "https://www.dr.dk/nyheder/seneste/sydkorea-sender-seks-nordkoreanere-retur",
-     "published": "2026-11-27T05:32+00:00"
-    },
-    {
-     "title": "Nævn foreslår ændringer i tilskud til Ozempic",
-     "link": "https://www.dr.dk/nyheder/seneste/naevn-foreslaar-aendringer-i-tilskud-til-ozempic",
-     "published": "2026-11-27T05:13+00:00"
-    },
-    {
-     "title": "Fem rumænere varetægtsfængsles i sag om flere restaurant-indbrud",
-     "link": "https://www.dr.dk/nyheder/seneste/fem-rumaenere-varetaegtsfaengsles-i-sag-om-flere-restaurant-indbrud",
-     "published": "2026-11-26T18:37+00:00"
-    },
-    {
-     "title": "TV 2 er sigtet i forbindelse med 'Den Sorte Svane'",
-     "link": "https://www.dr.dk/nyheder/seneste/tv-2-er-sigtet-i-forbindelse-med-den-sorte-svane",
-     "published": "2026-11-26T17:18+00:00"
-    },
-    {
-     "title": "EU-lande er enige om at pege på spanier som ny chef for ECB",
-     "link": "https://www.dr.dk/nyheder/seneste/eu-lande-er-enige-om-pege-paa-spanier-som-ny-chef-ecb",
-     "published": "2026-11-26T16:06+00:00"
     }
    ]
   },
@@ -91,6 +91,51 @@
    "status": "ok",
    "items": [
     {
+     "title": "USA angriber fartøj i Omanbugten",
+     "link": "https://www.dr.dk/nyheder/seneste/usa-angriber-fartoej-i-omanbugten",
+     "published": "2026-11-27T18:31+00:00"
+    },
+    {
+     "title": "15-årig død efter trafikulykke i tirsdags",
+     "link": "https://www.dr.dk/nyheder/seneste/15-aarig-doed-efter-trafikulykke-i-tirsdags",
+     "published": "2026-11-27T17:38+00:00"
+    },
+    {
+     "title": "Otte migranter døde i forsøget på at nå Europa",
+     "link": "https://www.dr.dk/nyheder/seneste/otte-migranter-doede-i-forsoeget-paa-naa-europa",
+     "published": "2026-11-27T16:21+00:00"
+    },
+    {
+     "title": "Styrelse følger sikkerhedsbrud hos teleudbyder - flere organisationer ventes ramt",
+     "link": "https://www.dr.dk/nyheder/seneste/styrelse-foelger-sikkerhedsbrud-hos-teleudbyder-flere-organisationer-ventes-ramt",
+     "published": "2026-11-27T16:13+00:00"
+    },
+    {
+     "title": "Politikreds skruer bissen på overfor LTF",
+     "link": "https://www.dr.dk/nyheder/seneste/politikreds-skruer-bissen-paa-overfor-ltf",
+     "published": "2026-11-27T14:50+00:00"
+    },
+    {
+     "title": "To unge mænd idømmes flere års fængsel i narkosag",
+     "link": "https://www.dr.dk/nyheder/seneste/unge-maend-idoemmes-flere-aars-faengsel-i-narkosag",
+     "published": "2026-11-27T13:46+00:00"
+    },
+    {
+     "title": "Færre danskere lever med KOL",
+     "link": "https://www.dr.dk/nyheder/seneste/faerre-danskere-lever-med-kol",
+     "published": "2026-11-27T13:34+00:00"
+    },
+    {
+     "title": "Styrelse advarer dyreejere om hårtabsmiddel",
+     "link": "https://www.dr.dk/nyheder/seneste/styrelse-advarer-dyreejere-om-haartabsmiddel",
+     "published": "2026-11-27T13:34+00:00"
+    },
+    {
+     "title": "FN advarer: Sult og hungersnød truer 16 områder i verden",
+     "link": "https://www.dr.dk/nyheder/seneste/fn-advarer-sult-og-hungersnoed-truer-16-omraader-i-verden",
+     "published": "2026-11-27T13:33+00:00"
+    },
+    {
      "title": "18-årig fængslet for skud mod tidligere boksers kolonihave",
      "link": "https://www.dr.dk/nyheder/seneste/18-aarig-faengslet-skud-mod-tidligere-boksers-kolonihave",
      "published": "2026-11-27T12:47+00:00"
@@ -119,51 +164,6 @@
      "title": "Nordmakedoner varetægtsfængslet efter bombesprængning",
      "link": "https://www.dr.dk/nyheder/seneste/nordmakedoner-varetaegtsfaengslet-efter-bombespraengning",
      "published": "2026-11-27T10:58+00:00"
-    },
-    {
-     "title": "Novo lancerer vægttabspille i Sverige juleaftensdag",
-     "link": "https://www.dr.dk/nyheder/seneste/novo-lancerer-vaegtabspille-i-sverige-juleaftensdag",
-     "published": "2026-11-27T09:39+00:00"
-    },
-    {
-     "title": "Resten af året kan du køre gratis i S-tog om søndagen",
-     "link": "https://www.dr.dk/nyheder/seneste/resten-af-aaret-kan-du-koere-gratis-i-s-tog-om-soendagen",
-     "published": "2026-11-27T08:49+00:00"
-    },
-    {
-     "title": "Fransk stjerneskuespiller skal igen for retten",
-     "link": "https://www.dr.dk/nyheder/seneste/fransk-stjerneskuespiller-skal-igen-retten",
-     "published": "2026-11-27T08:38+00:00"
-    },
-    {
-     "title": "Kvinde omkommet i brand i Ringe på Fyn",
-     "link": "https://www.dr.dk/nyheder/seneste/kvinde-omkommet-i-brand-i-ringe-paa-fyn",
-     "published": "2026-11-27T06:15+00:00"
-    },
-    {
-     "title": "Sydkorea sender seks nordkoreanere retur",
-     "link": "https://www.dr.dk/nyheder/seneste/sydkorea-sender-seks-nordkoreanere-retur",
-     "published": "2026-11-27T05:32+00:00"
-    },
-    {
-     "title": "Nævn foreslår ændringer i tilskud til Ozempic",
-     "link": "https://www.dr.dk/nyheder/seneste/naevn-foreslaar-aendringer-i-tilskud-til-ozempic",
-     "published": "2026-11-27T05:13+00:00"
-    },
-    {
-     "title": "Fem rumænere varetægtsfængsles i sag om flere restaurant-indbrud",
-     "link": "https://www.dr.dk/nyheder/seneste/fem-rumaenere-varetaegtsfaengsles-i-sag-om-flere-restaurant-indbrud",
-     "published": "2026-11-26T18:37+00:00"
-    },
-    {
-     "title": "TV 2 er sigtet i forbindelse med 'Den Sorte Svane'",
-     "link": "https://www.dr.dk/nyheder/seneste/tv-2-er-sigtet-i-forbindelse-med-den-sorte-svane",
-     "published": "2026-11-26T17:18+00:00"
-    },
-    {
-     "title": "EU-lande er enige om at pege på spanier som ny chef for ECB",
-     "link": "https://www.dr.dk/nyheder/seneste/eu-lande-er-enige-om-pege-paa-spanier-som-ny-chef-ecb",
-     "published": "2026-11-26T16:06+00:00"
     }
    ]
   },
@@ -174,6 +174,71 @@
    "status": "ok",
    "items": [
     {
+     "title": "Før sin død fortalte Jørn Hjorting DR, hvad han håber at blive husket for",
+     "link": "https://www.dr.dk/nyheder/indland/foer-sin-doed-fortalte-joern-hjorting-dr-hvad-han-haaber-blive-husket",
+     "published": "2026-11-27T20:36+00:00"
+    },
+    {
+     "title": "Hvert femte barn vil forbyde samlekort i skolen og SFO'en",
+     "link": "https://www.dr.dk/nyheder/indland/hvert-femte-barn-vil-forbyde-samlekort-i-skolen-og-sfo-en",
+     "published": "2026-11-27T20:10+00:00"
+    },
+    {
+     "title": "Lukker webshop på Black Friday: 'Vil forhindre fejlkøb'",
+     "link": "https://www.dr.dk/nyheder/indland/reels/lukker-webshop-paa-black-friday-vil-forhindre-fejlkoeb",
+     "published": "2026-11-27T19:45+00:00"
+    },
+    {
+     "title": "Kendte Youtube-brødre risikerer bøde på 140.000 kroner",
+     "link": "https://www.dr.dk/nyheder/indland/kendte-youtube-broedre-risikerer-boede-paa-140-000-kroner",
+     "published": "2026-11-27T19:18+00:00"
+    },
+    {
+     "title": "13 byrødder har bremset kæmpe havneudvidelse - nu vil flere have staten på banen",
+     "link": "https://www.dr.dk/nyheder/indland/13-byroedder-har-bremset-kaempe-havneudvidelse-nu-vil-flere-have-staten-paa-banen",
+     "published": "2026-11-27T19:00+00:00"
+    },
+    {
+     "title": "Ny pædofilfilm understreger betydningen af særlig rådgivningslinje – nu forlænger Red Barnet den med fire år",
+     "link": "https://www.dr.dk/nyheder/indland/ny-paedofilfilm-understreger-betydningen-af-saerlig-raadgivningslinje-nu-forlaenger-red-barnet-den",
+     "published": "2026-11-27T18:21+00:00"
+    },
+    {
+     "title": "90.000 telefonnumre hos dansk bilkoncern er kompromitteret i stort sikkerhedsbrud",
+     "link": "https://www.dr.dk/nyheder/indland/90-000-numre-hos-dansk-bilkoncern-er-kompromitteret-i-stort-sikkerhedsbrud",
+     "published": "2026-11-27T17:36+00:00"
+    },
+    {
+     "title": "Charlottes sag blev lynekspederet af AI: Nu går ombudsmand ind i sagen",
+     "link": "https://www.dr.dk/nyheder/indland/charlottes-sag-blev-afgjort-af-ai-nu-gaar-ombudsmand-ind-i-sagen",
+     "published": "2026-11-27T17:21+00:00"
+    },
+    {
+     "title": "Radiokolleger mindes Jørn Hjorting: 'Det er jo dansktoppens far, der er gået bort i dag'",
+     "link": "https://www.dr.dk/nyheder/indland/radiokolleger-mindes-joern-hjorting-det-er-jo-dansktoppens-far-der-er-gaaet-bort-i-dag",
+     "published": "2026-11-27T17:20+00:00"
+    },
+    {
+     "title": "Sparemor køber alle julegaver til en fjerdedel af prisen",
+     "link": "https://www.dr.dk/nyheder/indland/reels/sparemor-koeber-alle-julegaver-til-en-fjerdedel-af-prisen",
+     "published": "2026-11-27T15:30+00:00"
+    },
+    {
+     "title": "Tidligere radio- og tv-vært Jørn Hjorting er død",
+     "link": "https://www.dr.dk/nyheder/indland/tidligere-radio-og-tv-vaert-joern-hjorting-er-doed",
+     "published": "2026-11-27T15:17+00:00"
+    },
+    {
+     "title": "'Nuuk 'em all': Indtag Grønland som Trump i nyt arkadespil",
+     "link": "https://www.dr.dk/nyheder/indland/reels/nuuk-em-all-indtag-groenland-som-trump-i-nyt-arkadespil",
+     "published": "2026-11-27T14:45+00:00"
+    },
+    {
+     "title": "Tusindvis af gymnasieelevers telefonnumre er blevet lækket",
+     "link": "https://www.dr.dk/nyheder/indland/tusindvis-af-gymnasieelevers-telefonnumre-er-blevet-laekket",
+     "published": "2026-11-27T14:00+00:00"
+    },
+    {
      "title": "’Vi bliver bekræftet i, at det er rigtigt at handle på Black Friday, når alle andre gør det’: Læs forbrugereksperternes svar om Black Friday",
      "link": "https://www.dr.dk/nyheder/indland/vi-bliver-bekraeftet-i-det-er-rigtigt-handle-paa-black-friday-naar-alle-andre-goer-det-laes",
      "published": "2026-11-27T11:07+00:00"
@@ -182,71 +247,6 @@
      "title": "Mens tilbudsjagten raser, lukker Michael sin butik",
      "link": "https://www.dr.dk/nyheder/indland/mens-tilbudsjagten-raser-lukker-michael-sin-butik",
      "published": "2026-11-27T10:54+00:00"
-    },
-    {
-     "title": "Pebernødder, brunkager og vaniljekranse tilbagekaldes",
-     "link": "https://www.dr.dk/nyheder/indland/pebernoedder-brunkager-og-vaniljekranse-tilbagekaldes",
-     "published": "2026-11-27T10:37+00:00"
-    },
-    {
-     "title": "Rejsekort-millioner samler støv: Læs her, hvordan du får fat i pengene",
-     "link": "https://www.dr.dk/nyheder/indland/rejsekort-millioner-samler-stoev-laes-her-hvordan-du-faar-fat-i-pengene",
-     "published": "2026-11-27T09:44+00:00"
-    },
-    {
-     "title": "Butikker skal undersøge, hvad der får os til at købe mere dansk frugt og grønt",
-     "link": "https://www.dr.dk/nyheder/indland/butikker-skal-undersoege-hvad-der-faar-os-til-koebe-mere-dansk-frugt-og-groent",
-     "published": "2026-11-27T08:39+00:00"
-    },
-    {
-     "title": "LIVE Årets Black Friday er i gang",
-     "link": "https://www.dr.dk/nyheder/indland/aarets-black-friday-er-i-gang",
-     "published": "2026-11-27T08:21+00:00"
-    },
-    {
-     "title": "STIL SPØRGSMÅL om Black Friday: Hvad skal du være opmærksom på, når du går på tilbudsjagt?",
-     "link": "https://www.dr.dk/nyheder/penge/stil-spoergsmaal-om-black-friday-hvad-skal-du-vaere-opmaerksom-paa-naar-du-gaar-paa-tilbudsjagt",
-     "published": "2026-11-27T07:00+00:00"
-    },
-    {
-     "title": "Sådan sørger du for at dit elektronik bliver genbrugt",
-     "link": "https://www.dr.dk/nyheder/indland/reels/saadan-soerger-du-dit-elektronik-bliver-genbrugt",
-     "published": "2026-11-27T06:50+00:00"
-    },
-    {
-     "title": "DF: Borgmester har været 'naiv' angående kønsopdelte bassiner",
-     "link": "https://www.dr.dk/nyheder/indland/df-borgmester-har-vaeret-naiv-angaaende-koensopdelte-bassiner",
-     "published": "2026-11-27T06:32+00:00"
-    },
-    {
-     "title": "'Voldsom sag' for retten i dag: Far anklaget for sende datter væk i fire år og mishandle hende",
-     "link": "https://www.dr.dk/nyheder/indland/voldsom-sag-retten-i-dag-far-anklaget-sende-datter-vaek-i-fire-aar-og-mishandle-hende",
-     "published": "2026-11-27T05:58+00:00"
-    },
-    {
-     "title": "KORRESPONDENT Black Friday er butikkernes hadegave til dig",
-     "link": "https://www.dr.dk/nyheder/penge/korrespondent-black-friday-er-butikkernes-hadegave-til-dig",
-     "published": "2026-11-27T05:40+00:00"
-    },
-    {
-     "title": "Flere overtrædelser: Styrelse fandt halvspiste svinekadavere uden for svinegigants stald",
-     "link": "https://www.dr.dk/nyheder/indland/flere-overtraedelser-styrelse-fandt-halvspiste-svinekadavere-uden-svinegigants-stald",
-     "published": "2026-11-27T05:04+00:00"
-    },
-    {
-     "title": "Black Friday-priser kan være misvisende",
-     "link": "https://www.dr.dk/nyheder/indland/reels/black-friday-priser-kan-vaere-misvisende",
-     "published": "2026-11-27T04:45+00:00"
-    },
-    {
-     "title": "Havnedrama afgjort: 'Nu skal vi hjem og have champagne'",
-     "link": "https://www.dr.dk/nyheder/indland/havnedrama-afgjort-nu-skal-vi-hjem-og-have-champagne",
-     "published": "2026-11-26T20:34+00:00"
-    },
-    {
-     "title": "Er du taknemlig og positiv nok? Charlotte har knækket koden",
-     "link": "https://www.dr.dk/nyheder/indland/er-du-taknemlig-og-positiv-nok-charlotte-har-knaekket-koden",
-     "published": "2026-11-26T20:34+00:00"
     }
    ]
   },
@@ -256,6 +256,21 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/udland",
    "status": "ok",
    "items": [
+    {
+     "title": "Korrespondent om valg i Spanien: 'Det vækker frygten for, at fascismen bliver vakt til live igen'",
+     "link": "https://www.dr.dk/nyheder/udland/korrespondent-om-valg-i-spanien-det-vaekker-frygten-fascismen-bliver-vakt-til-live-igen",
+     "published": "2026-11-27T20:51+00:00"
+    },
+    {
+     "title": "Mette Frederiksens ord vækker opsigt i Frankrig",
+     "link": "https://www.dr.dk/nyheder/udland/reels/mette-frederiksens-ord-vaekker-opsigt-i-frankrig",
+     "published": "2026-11-27T16:03+00:00"
+    },
+    {
+     "title": "'Nuuk 'em all': Indtag Grønland som Trump i nyt arkadespil",
+     "link": "https://www.dr.dk/nyheder/indland/reels/nuuk-em-all-indtag-groenland-som-trump-i-nyt-arkadespil",
+     "published": "2026-11-27T14:45+00:00"
+    },
     {
      "title": "En børnelejr i Nordkorea har udløst et diplomatisk opgør med Schweiz",
      "link": "https://www.dr.dk/nyheder/udland/en-boernelejr-i-nordkorea-har-udloest-et-diplomatisk-opgoer-med-schweiz",
@@ -315,21 +330,6 @@
      "title": "Sverige har haft russisk ambassadør til møde efter attentatplaner i Danmark",
      "link": "https://www.dr.dk/nyheder/udland/sverige-har-haft-russisk-ambassadoer-til-moede-efter-attentatplaner-i-danmark",
      "published": "2026-11-26T19:05+00:00"
-    },
-    {
-     "title": "Ukrainsk lasersystem nedskyder for første gang en drone",
-     "link": "https://www.dr.dk/nyheder/udland/ukrainsk-lasersystem-nedskyder-foerste-gang-en-drone",
-     "published": "2026-11-26T18:30+00:00"
-    },
-    {
-     "title": "Centerpartiet vil støtte Ulf Kristersson som svensk statsminister",
-     "link": "https://www.dr.dk/nyheder/udland/centerpartiet-vil-stoette-ulf-kristersson-som-svensk-statsminister",
-     "published": "2026-11-26T17:20+00:00"
-    },
-    {
-     "title": "I Bangladesh er politi og tekstilarbejdere igen stødt sammen",
-     "link": "https://www.dr.dk/nyheder/udland/i-bangladesh-er-politi-og-tekstilarbejdere-igen-stoedt-sammen",
-     "published": "2026-11-26T16:32+00:00"
     }
    ]
   },
@@ -339,6 +339,16 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/politik",
    "status": "ok",
    "items": [
+    {
+     "title": "Unge socialdemokrater melder sig ud i protest: 'Det er så svinsk'",
+     "link": "https://www.dr.dk/nyheder/politik/unge-socialdemokrater-melder-sig-ud-i-protest-det-er-saa-svinsk",
+     "published": "2026-11-27T17:44+00:00"
+    },
+    {
+     "title": "Enhedslisten mener ikke, at kirkelige vielser skal være juridisk gyldige",
+     "link": "https://www.dr.dk/nyheder/politik/enhedslisten-vil-aendre-reglerne-kirkelige-vielser-praesteforeningen-kalder-det-unoedvendigt",
+     "published": "2026-11-27T15:00+00:00"
+    },
     {
      "title": "Regeringen vil ændre skatteaftale efter blot 14 dage: 'Det har aldrig været intentionen'",
      "link": "https://www.dr.dk/nyheder/indland/regeringen-vil-aendre-skatteaftale-efter-blot-14-dage-det-har-aldrig-vaeret-intentionen",
@@ -403,16 +413,6 @@
      "title": "Løkke kalder Mette Frederiksen-præcisering klog og kærkommen",
      "link": "https://www.dr.dk/nyheder/politik/loekke-kalder-mette-frederiksen-praecisering-klog-og-kaerkommen",
      "published": "2026-11-24T13:23+00:00"
-    },
-    {
-     "title": "Politikerne får kraftig advarsel, kort før de haster billig benzin igennem: Kan betyde butiksdød i små lokalsamfund",
-     "link": "https://www.dr.dk/nyheder/politik/politikerne-faar-kraftig-advarsel-kort-foer-de-haster-billig-benzin-igennem-kan-betyde-butiksdoed-i",
-     "published": "2026-11-24T10:18+00:00"
-    },
-    {
-     "title": "Minister: Regnefejl om kvælstof forsinker også sprøjteforbud",
-     "link": "https://www.dr.dk/nyheder/politik/minister-regnefejl-om-kvaelstof-forsinker-ogsaa-sproejteforbud",
-     "published": "2026-11-24T06:59+00:00"
     }
    ]
   },
@@ -422,6 +422,11 @@
    "url": "https://www.dr.dk/nyheder/service/feeds/penge",
    "status": "ok",
    "items": [
+    {
+     "title": "Politiet indblandet: Kuratorer mener, elselskab skyldte kunder 292 millioner ved konkurs",
+     "link": "https://www.dr.dk/nyheder/penge/politiet-indblandet-kuratorer-mener-elselskab-skyldte-kunder-292-millioner-ved-konkurs",
+     "published": "2026-11-27T21:06+00:00"
+    },
     {
      "title": "STIL SPØRGSMÅL om Black Friday: Hvad skal du være opmærksom på, når du går på tilbudsjagt?",
      "link": "https://www.dr.dk/nyheder/penge/stil-spoergsmaal-om-black-friday-hvad-skal-du-vaere-opmaerksom-paa-naar-du-gaar-paa-tilbudsjagt",
@@ -491,11 +496,6 @@
      "title": "Anders solgte alle sine Nvidia-aktier inden Huangs comeback",
      "link": "https://www.dr.dk/nyheder/indland/reels/anders-solgte-alle-sine-nvidia-aktier-inden-huangs-comeback",
      "published": "2026-11-24T16:00+00:00"
-    },
-    {
-     "title": "Tusindvis af boligejere ramt af fejl i boligskatten: 'Det er uheldigt'",
-     "link": "https://www.dr.dk/nyheder/penge/tusindvis-af-boligejere-ramt-af-fejl-i-boligskatten-det-er-uheldigt",
-     "published": "2026-11-24T14:02+00:00"
     }
    ]
   },
@@ -506,54 +506,54 @@
    "status": "ok",
    "items": [
     {
-     "title": "Hyldes: Ren opvisning",
-     "link": "https://ekstrabladet.dk/sport/haandbold/emil-nielsen-hyldes-ren-opvisning/11367278",
-     "published": "2026-11-27T12:46+00:00"
+     "title": "Füllkrug reddede Werder Bremen i hæsblæsende affære",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/tyskfodbold/fullkrug-reddede-werder-bremen-i-haesblaesende-affaere/11368190",
+     "published": "2026-11-27T21:37+00:00"
     },
     {
-     "title": "Her er dommen: \nDansk skuespiller idømt fængsel",
-     "link": "https://ekstrabladet.dk/underholdning/dkkendte/her-er-dommen-dansk-skuespiller-idoemt-faengsel/11359562",
-     "published": "2026-11-27T12:37+00:00"
+     "title": "Dommer knaldede målmand en på kassen",
+     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/international_fodbold/dommer-knaldede-maalmand-en-paa-kassen/11367751",
+     "published": "2026-11-27T21:36+00:00"
     },
     {
-     "title": "Reuters: \nHackere \nrammer \nUSA's flyvevåben",
-     "link": "https://ekstrabladet.dk/nyheder/reuters-hackere-rammer-usas-flyvevaaben/11367507",
-     "published": "2026-11-27T12:35+00:00"
+     "title": "Uro ved ishockeykamp: \nEn anholdt for \nvold mod politiet",
+     "link": "https://ekstrabladet.dk/krimi/uro-ved-ishockeykamp-en-anholdt-for-vold-mod-politiet/11368182",
+     "published": "2026-11-27T21:28+00:00"
     },
     {
-     "title": "Unge mænd fængslet i stor narkosag",
-     "link": "https://ekstrabladet.dk/krimi/unge-maend-faengslet-i-stor-narkosag/11367641",
-     "published": "2026-11-27T12:30+00:00"
+     "title": "Mystiske chiphandler:\nSpor fører til\nelskerinden",
+     "link": "https://ekstrabladet.dk/penge/mystiske-chiphandler-spor-foerer-til-topchefens-elskerinde/11367700",
+     "published": "2026-11-27T21:28+00:00"
     },
     {
-     "title": "Medie: Robert Skov skal sælges",
-     "link": "https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/tyskfodbold/medie-robert-skov-skal-saelges/11367427",
-     "published": "2026-11-27T12:24+00:00"
+     "title": "Helt konkrete udlandsdrømme: \nNu løfter de sløret for planerne",
+     "link": "https://ekstrabladet.dk/underholdning/dkkendte/helt-konkrete-udlandsdroemme-nu-loefter-de-sloeret-for-planerne/11367462",
+     "published": "2026-11-27T21:12+00:00"
     },
     {
-     "title": "Røde lamper: \nHelt udsolgt til kæmpe brag",
-     "link": "https://ekstrabladet.dk/sport/fodbold/dansk_fodbold/nykoebing-melder-udsolgt-til-broendby-brag/11367633",
-     "published": "2026-11-27T12:22+00:00"
+     "title": "Mareridtsagtige spaghetti-orme fundet på havets bund",
+     "link": "https://ekstrabladet.dk/nyheder/videnskab/netop-opdaget-i-dybhavet-ny-familie-af-spaghetti-orme/11367850",
+     "published": "2026-11-27T21:06+00:00"
     },
     {
-     "title": "TV 2 tager 'Den sorte svane'-sigtelserne 'særdeles alvorligt'",
-     "link": "https://ekstrabladet.dk/underholdning/filmogtv/tv-2-tager-den-sorte-svane-sigtelserne-saerdeles-alvorligt/11367624",
-     "published": "2026-11-27T12:16+00:00"
+     "title": "Kæmpe overraskelse: Første gang i år",
+     "link": "https://ekstrabladet.dk/sport/anden_sport/ishockey/foerste-gang-i-aar-herning-blue-fox-taber-i-ordinaer-tid/11368172",
+     "published": "2026-11-27T21:06+00:00"
     },
     {
-     "title": "Officielt: Alexander Kamp forlader Uno-X",
-     "link": "https://ekstrabladet.dk/sport/cykling/officielt-alexander-kamp-forlader-uno-x/11367485",
-     "published": "2026-11-27T12:05+00:00"
+     "title": "Flækkede knæet i Danmark: Misser sæsonen",
+     "link": "https://ekstrabladet.dk/sport/cykling/flaekkede-knaeskallen-i-danmark-stjerne-misser-hele-saesonen/11367881",
+     "published": "2026-11-27T21:01+00:00"
     },
     {
-     "title": "Slår alarm! \nFlere lande \ni overhængende fare",
-     "link": "https://ekstrabladet.dk/nyheder/kritisk-flere-lande-i-overhaengende-fare-for-hungersnoed/11367591",
-     "published": "2026-11-27T12:03+00:00"
+     "title": "Medie: Nordkorea \npauser våbenhjælp \ntil Rusland",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/medie-nordkorea-pauser-vaabenhjaelp-til-rusland/11367143",
+     "published": "2026-11-27T20:53+00:00"
     },
     {
-     "title": "Medie: Rabobank bliver navnesponsor hos Visma",
-     "link": "https://ekstrabladet.dk/sport/cykling/medie-rabobank-bliver-navnesponsor-hos-visma/11367501",
-     "published": "2026-11-27T11:59+00:00"
+     "title": "Voldtægtssag: \nHentede offer \ni sportsvogn",
+     "link": "https://ekstrabladet.dk/krimi/politikersoen-tiltalt-hentede-offer-i-sportsvogn/11367964",
+     "published": "2026-11-27T20:37+00:00"
     }
    ]
   },
@@ -564,54 +564,54 @@
    "status": "ok",
    "items": [
     {
-     "title": "Reuters: \nHackere \nrammer \nUSA's flyvevåben",
-     "link": "https://ekstrabladet.dk/nyheder/reuters-hackere-rammer-usas-flyvevaaben/11367507",
-     "published": "2026-11-27T12:35+00:00"
+     "title": "Mareridtsagtige spaghetti-orme fundet på havets bund",
+     "link": "https://ekstrabladet.dk/nyheder/videnskab/netop-opdaget-i-dybhavet-ny-familie-af-spaghetti-orme/11367850",
+     "published": "2026-11-27T21:06+00:00"
     },
     {
-     "title": "Slår alarm! \nFlere lande \ni overhængende fare",
-     "link": "https://ekstrabladet.dk/nyheder/kritisk-flere-lande-i-overhaengende-fare-for-hungersnoed/11367591",
-     "published": "2026-11-27T12:03+00:00"
+     "title": "Medie: Nordkorea \npauser våbenhjælp \ntil Rusland",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/medie-nordkorea-pauser-vaabenhjaelp-til-rusland/11367143",
+     "published": "2026-11-27T20:53+00:00"
     },
     {
-     "title": "47 brud: Datatilsynet retter alvorlig kritik",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/47-brud-datatilsynet-retter-alvorlig-kritik/11367564",
-     "published": "2026-11-27T11:51+00:00"
+     "title": "Vil have styr på reserven:\nKontakter\n100.000",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/vil-have-fat-i-100.000-veteraner-forberedt-paa-det-vaerste/11367204",
+     "published": "2026-11-27T20:08+00:00"
     },
     {
-     "title": "Fra rejsekort\ntil guldkort",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/rejsekorts-pengekasse-bugner-af-dine-penge/11363665",
-     "published": "2026-11-27T10:20+00:00"
+     "title": "Efter togkaos: Borgmestre sender appel",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/efter-togkaos-borgmestre-sender-appel-til-folketinget/11367320",
+     "published": "2026-11-27T19:58+00:00"
     },
     {
-     "title": "Tilbagekalder julekager: Sundhedsmæssig risiko",
-     "link": "https://ekstrabladet.dk/nyheder/samfund/tilbagekalder-julekager-sundhedsmaessig-risiko/11367388",
-     "published": "2026-11-27T09:51+00:00"
+     "title": "Putin præsenterer ny atomdrevet ubåd",
+     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/putin-praesenterer-ny-atomdrevet-ubaad/11368094",
+     "published": "2026-11-27T19:07+00:00"
     },
     {
-     "title": "Mette Frederiksen vil have nyt udspil",
-     "link": "https://ekstrabladet.dk/nyheder/politik/mette-frederiksen-vil-have-nyt-udspil/11367239",
-     "published": "2026-11-27T08:39+00:00"
+     "title": "Amerikansk militærfly beskyder fragtskib i Omanbugten",
+     "link": "https://ekstrabladet.dk/nyheder/krigogkatastrofer/amerikansk-militaerfly-beskyder-fragtskib-i-omanbugten/11368051",
+     "published": "2026-11-27T18:16+00:00"
     },
     {
-     "title": "Frygter sexfælde \nhos forsvarsgigant:\n- Alarmklokkerne bør ringe",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/frygter-sexfaelde-hos-forsvarsgigant-alarmklokkerne-boer-ringe/11367191",
-     "published": "2026-11-27T08:37+00:00"
+     "title": "Frygter angreb \nmed mange \nofre i Europa",
+     "link": "https://ekstrabladet.dk/nyheder/Udland/advarer-europa-frygter-angreb-med-mange-ofre/11367903",
+     "published": "2026-11-27T17:41+00:00"
     },
     {
-     "title": "Uheld: Motorvej helt spærret",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/uheld-motorvej-helt-spaerret/11367185",
-     "published": "2026-11-27T07:29+00:00"
+     "title": "Kørekorts\ngak-gak på\nKærshovedgård",
+     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/koerekorts-gak-gak-paa-kaershovedgaard/11365960",
+     "published": "2026-11-27T17:20+00:00"
     },
     {
-     "title": "Danskerne vælger Mona Juul",
-     "link": "https://ekstrabladet.dk/nyheder/politik/danskpolitik/stor-overraskelse-danskerne-vaelger-mona-juul/11367135",
-     "published": "2026-11-27T07:02+00:00"
+     "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek/11367999",
+     "published": "2026-11-27T17:14+00:00"
     },
     {
-     "title": "Erklærer undtagelsestilstand: 900.000 uden strøm",
-     "link": "https://ekstrabladet.dk/nyheder/Udland/storme-udloeser-undtagelsestilstand-i-usa/11367065",
-     "published": "2026-11-27T06:07+00:00"
+     "title": "Svensk officer \nmistænkt i sag om \nhemmelige oplysninger",
+     "link": "https://ekstrabladet.dk/nyheder/samfund/svensk-officer-mistaenkt-i-sag-om-hemmelige-oplysninger/11367392",
+     "published": "2026-11-27T17:11+00:00"
     }
    ]
   },
@@ -622,54 +622,54 @@
    "status": "ok",
    "items": [
     {
-     "title": "Fogh med opsigtsvækkende melding: Bør sende danske tropper til Ukraine",
-     "link": "https://www.bt.dk/politik/fogh-med-opsigtsvaekkende-melding-boer-sende-danske-tropper-til-ukraine?referrer=RSS",
-     "published": "2026-11-27T12:38+00:00"
+     "title": "Velkommen skyldte 42.825 elkunder 292 millioner kroner ved konkurs",
+     "link": "https://www.bt.dk/samfund/velkommen-skyldte-42825-elkunder-292-millioner-kroner-ved-konkurs?referrer=RSS",
+     "published": "2026-11-27T21:20+00:00"
     },
     {
-     "title": "Formodet bandefigur fængslet for skud mod eksbokser og hans familie",
-     "link": "https://www.bt.dk/krimi/formodet-bandefigur-faengslet-for-skud-mod-eksbokser-og-hans-familie?referrer=RSS",
-     "published": "2026-11-27T12:37+00:00"
+     "title": "Chok i Storbritannien: Kriminelle gassede koncertgæster",
+     "link": "https://www.bt.dk/udland/chok-i-storbritannien-kriminelle-gassede-koncertgaester?referrer=RSS",
+     "published": "2026-11-27T21:10+00:00"
     },
     {
-     "title": "50 butikker skal få flere til at vælge dansk frugt og grønt",
-     "link": "https://www.bt.dk/samfund/50-butikker-skal-faa-flere-til-at-vaelge-dansk-frugt-og-groent?referrer=RSS",
-     "published": "2026-11-27T12:37+00:00"
+     "title": "Beder hele Aarhus Kommune om hjælp",
+     "link": "https://www.bt.dk/krimi/beder-hele-aarhus-kommune-om-hjaelp?referrer=RSS",
+     "published": "2026-11-27T20:36+00:00"
     },
     {
-     "title": "Elon Musk med løfte: Vil donere aktier til alle amerikanske børn",
-     "link": "https://www.bt.dk/udland/elon-musk-med-loefte-vil-donere-aktier-til-alle-amerikanske-boern?referrer=RSS",
-     "published": "2026-11-27T12:32+00:00"
+     "title": "Zelenskyj er på Putins dødsliste: Det vil få store konsekvenser",
+     "link": "https://www.bt.dk/udland/zelenskyj-er-paa-putins-doedsliste-det-vil-faa-store-konsekvenser?referrer=RSS",
+     "published": "2026-11-27T20:36+00:00"
     },
     {
-     "title": "TV 2 vil bistå politiet i opklaringsarbejde om Den sorte svane",
-     "link": "https://www.bt.dk/krimi/tv-2-vil-bistaa-politiet-i-opklaringsarbejde-om-den-sorte-svane?referrer=RSS",
-     "published": "2026-11-27T12:30+00:00"
+     "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
+     "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
+     "published": "2026-11-27T20:21+00:00"
     },
     {
-     "title": "Landsret stadfæster dom for knivdrab på barndomsven",
-     "link": "https://www.bt.dk/krimi/landsret-stadfaester-dom-for-knivdrab-paa-barndomsven?referrer=RSS",
-     "published": "2026-11-27T12:20+00:00"
+     "title": "Vild udvikling: Realitydeltagers mor mistænkes for rolle i Pokemon-røveri",
+     "link": "https://www.bt.dk/krimi/vild-udviklingrealitydeltagers-mor-mistaenkes-for-rolle-i-pokemon-roeveri?referrer=RSS",
+     "published": "2026-11-27T20:09+00:00"
     },
     {
-     "title": "Danmark får første kvindelige rigsadvokat",
-     "link": "https://www.bt.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat?referrer=RSS",
-     "published": "2026-11-27T12:20+00:00"
+     "title": "Styrelse: Flere organisationer kan være ramt af datalæk hos teleudbyder",
+     "link": "https://www.bt.dk/samfund/styrelse-flere-organisationer-kan-vaere-ramt-af-datalaek-hos-teleudbyder?referrer=RSS",
+     "published": "2026-11-27T20:01+00:00"
     },
     {
-     "title": "Reuters: Hackere trænger ind i cloudplatform for USA's flyvevåben",
-     "link": "https://www.bt.dk/udland/reuters-hackere-traenger-ind-i-cloudplatform-for-usas-flyvevaaben?referrer=RSS",
-     "published": "2026-11-27T12:16+00:00"
+     "title": "Spejderkorps og bilkoncern er omfattet af større datalæk",
+     "link": "https://www.bt.dk/samfund/spejderkorps-og-bilkoncern-er-omfattet-af-stoerre-datalaek?referrer=RSS",
+     "published": "2026-11-27T19:51+00:00"
     },
     {
-     "title": "Anholdt og sigtet: Affyrede 12 skud mod eksbokser",
-     "link": "https://www.bt.dk/krimi/anholdt-og-sigtet-affyrede-12-skud-mod-eksbokser?referrer=RSS",
-     "published": "2026-11-27T12:16+00:00"
+     "title": "Bekræfter: Uvedkommende har fået adgang",
+     "link": "https://www.bt.dk/krimi/bekraefter-uvedkommende-har-faaet-adgang?referrer=RSS",
+     "published": "2026-11-27T19:41+00:00"
     },
     {
-     "title": "Datatilsynet kritiserer Familieretshuset efter 47 sikkerhedsbrud",
-     "link": "https://www.bt.dk/samfund/datatilsynet-kritiserer-familieretshuset-efter-47-sikkerhedsbrud?referrer=RSS",
-     "published": "2026-11-27T12:12+00:00"
+     "title": "'Slyngelstat' og 'hjernevask': Jacob Harris vækker opsigt i buffetkonges podcast",
+     "link": "https://www.bt.dk/samfund/slyngelstat-og-hjernevask-jacob-harris-vaekker-opsigt-i-buffetkonges-podcast?referrer=RSS",
+     "published": "2026-11-27T19:40+00:00"
     }
    ]
   },
@@ -680,54 +680,54 @@
    "status": "ok",
    "items": [
     {
-     "title": "Forlænget reparation betyder højere varmeregning",
-     "link": "https://www.bt.dk/privatoekonomi/forlaenget-reparation-betyder-hoejere-varmeregning?referrer=RSS",
-     "published": "2026-11-27T12:49+00:00"
+     "title": "Højlund afslører samtaler med United-stjerner: 'Var meget berørte'",
+     "link": "https://www.bt.dk/fodbold/hoejlund-afsloerer-samtaler-med-united-stjerner-var-meget-beroerte?referrer=RSS",
+     "published": "2026-11-27T21:39+00:00"
     },
     {
-     "title": "Fogh med opsigtsvækkende melding: Bør sende danske tropper til Ukraine",
-     "link": "https://www.bt.dk/politik/fogh-med-opsigtsvaekkende-melding-boer-sende-danske-tropper-til-ukraine?referrer=RSS",
-     "published": "2026-11-27T12:38+00:00"
+     "title": "Velkommen skyldte 42.825 elkunder 292 millioner kroner ved konkurs",
+     "link": "https://www.bt.dk/samfund/velkommen-skyldte-42825-elkunder-292-millioner-kroner-ved-konkurs?referrer=RSS",
+     "published": "2026-11-27T21:20+00:00"
     },
     {
-     "title": "Formodet bandefigur fængslet for skud mod eksbokser og hans familie",
-     "link": "https://www.bt.dk/krimi/formodet-bandefigur-faengslet-for-skud-mod-eksbokser-og-hans-familie?referrer=RSS",
-     "published": "2026-11-27T12:37+00:00"
+     "title": "Chok i Storbritannien: Kriminelle gassede koncertgæster",
+     "link": "https://www.bt.dk/udland/chok-i-storbritannien-kriminelle-gassede-koncertgaester?referrer=RSS",
+     "published": "2026-11-27T21:10+00:00"
     },
     {
-     "title": "50 butikker skal få flere til at vælge dansk frugt og grønt",
-     "link": "https://www.bt.dk/samfund/50-butikker-skal-faa-flere-til-at-vaelge-dansk-frugt-og-groent?referrer=RSS",
-     "published": "2026-11-27T12:37+00:00"
+     "title": "Aalborg Pirates holder topholdet fra fadet og vinder",
+     "link": "https://www.bt.dk/oevrig-sport/aalborg-pirates-holder-topholdet-fra-fadet-og-vinder?referrer=RSS",
+     "published": "2026-11-27T21:06+00:00"
     },
     {
-     "title": "Troede de havde vundet 350 millioner: Kæmpe lotto-brøler",
-     "link": "https://www.bt.dk/spil/troede-de-havde-vundet-350-millioner-kaempe-lotto-broeler?referrer=RSS",
-     "published": "2026-11-27T12:34+00:00"
+     "title": "Vild konkurs: Skylder penge til 42.825 danskere",
+     "link": "https://www.bt.dk/privatoekonomi/vild-konkurs-skylder-penge-til-42825-danskere?referrer=RSS",
+     "published": "2026-11-27T20:43+00:00"
     },
     {
-     "title": "Elon Musk med løfte: Vil donere aktier til alle amerikanske børn",
-     "link": "https://www.bt.dk/udland/elon-musk-med-loefte-vil-donere-aktier-til-alle-amerikanske-boern?referrer=RSS",
-     "published": "2026-11-27T12:32+00:00"
+     "title": "Beder hele Aarhus Kommune om hjælp",
+     "link": "https://www.bt.dk/krimi/beder-hele-aarhus-kommune-om-hjaelp?referrer=RSS",
+     "published": "2026-11-27T20:36+00:00"
     },
     {
-     "title": "TV 2 vil bistå politiet i opklaringsarbejde om Den sorte svane",
-     "link": "https://www.bt.dk/krimi/tv-2-vil-bistaa-politiet-i-opklaringsarbejde-om-den-sorte-svane?referrer=RSS",
-     "published": "2026-11-27T12:30+00:00"
+     "title": "Zelenskyj er på Putins dødsliste: Det vil få store konsekvenser",
+     "link": "https://www.bt.dk/udland/zelenskyj-er-paa-putins-doedsliste-det-vil-faa-store-konsekvenser?referrer=RSS",
+     "published": "2026-11-27T20:36+00:00"
     },
     {
-     "title": "Landsret stadfæster dom for knivdrab på barndomsven",
-     "link": "https://www.bt.dk/krimi/landsret-stadfaester-dom-for-knivdrab-paa-barndomsven?referrer=RSS",
-     "published": "2026-11-27T12:20+00:00"
+     "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
+     "link": "https://www.bt.dk/samfund/teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb?referrer=RSS",
+     "published": "2026-11-27T20:21+00:00"
     },
     {
-     "title": "Danmark får første kvindelige rigsadvokat",
-     "link": "https://www.bt.dk/krimi/danmark-faar-foerste-kvindelige-rigsadvokat?referrer=RSS",
-     "published": "2026-11-27T12:20+00:00"
+     "title": "Vild udvikling: Realitydeltagers mor mistænkes for rolle i Pokemon-røveri",
+     "link": "https://www.bt.dk/krimi/vild-udviklingrealitydeltagers-mor-mistaenkes-for-rolle-i-pokemon-roeveri?referrer=RSS",
+     "published": "2026-11-27T20:09+00:00"
     },
     {
-     "title": "Reuters: Hackere trænger ind i cloudplatform for USA's flyvevåben",
-     "link": "https://www.bt.dk/udland/reuters-hackere-traenger-ind-i-cloudplatform-for-usas-flyvevaaben?referrer=RSS",
-     "published": "2026-11-27T12:16+00:00"
+     "title": "Patrick Mortensen redder point til Brøndby i Haderslev",
+     "link": "https://www.bt.dk/fodbold/patrick-mortensen-redder-point-til-broendby-i-haderslev?referrer=RSS",
+     "published": "2026-11-27T20:04+00:00"
     }
    ]
   }
